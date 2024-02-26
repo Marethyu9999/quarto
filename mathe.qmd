@@ -68,7 +68,7 @@ $$\vec{v} = \sqrt{x^2 + y^2 + z^2}$$
 Was in [unserem Fall](#was-ist-ein-vektor) folgendes heißt: $\sqrt{2^2+4^2+6^2}=7,48$
 
 #### Addition
-Vektoren zu addiren ist denkbar einfach, wie hier:
+Vektoren zu addieren ist denkbar einfach, wie hier:
 $$\begin{bmatrix}4\\-1\\2\end{bmatrix}+\begin{bmatrix}3\\2\\-4\end{bmatrix}=\begin{bmatrix}7\\1\\-2\end{bmatrix}$$
 Wie vielleicht zu erkennen ist, werden jediglich die Werte der selbigen Dimensionen addiert, was heißt:
 $$\begin{bmatrix}x_1\\y_1\\z_1\end{bmatrix}+\begin{bmatrix}x_2\\y_2\\z_3\end{bmatrix}=\begin{bmatrix}x_3\\y_3\\z_3\end{bmatrix}$$
