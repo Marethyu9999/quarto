@@ -9,7 +9,7 @@ format:
 # Für die Mathe Klausur relavente Themen
 - Integrale (Definition, Stammfunktion, Flächeninhalt, …)
   - *unwahscheinlich* Ober-/ Untersummen
-- [Vektoren](#vektoren) (Grundlagen, 3d-Koordinatensystem, [Beträge](#beträge), [Addition](#addition), Subtraktion,Multi.)
+- [Vektoren](#vektoren) (Grundlagen, 3d-Koordinatensystem, [Beträge](#beträge), [Addition](#addition), Subtraktion, [Multiplikation mit Skalaren](#multiplikation-mit-skalaren))
 - Geraden
 - [gegenseitige Lage von Geraden](#gegenseitige-lage-von-geraden)
 - *vielleicht* Analysis
@@ -52,15 +52,15 @@ import matplotlib.pyplot as plt
 vector = (2, 4)
 
 plt.quiver(0, 0, vector[0], vector[1], angles='xy', scale_units='xy', scale=1)
-plt.xlim(-5, 5)
-plt.ylim(-5, 5)
+plt.xlim(-1, 3)
+plt.ylim(-1, 5)
 plt.xlabel('X')
 plt.ylabel('Y')
 plt.grid()
 plt.show()
 ```
 
-und hat sowohl eine Richtung als auch einen Betrag. Sie können außerdem theoretisch unendlich viele Dimensionen haben.
+und hat sowohl eine Richtung als auch einen Betrag. <br>Sie können außerdem theoretisch unendlich viele Dimensionen haben.
 
 #### Beträge
 Sie haben sowohl eine Richtung als auch einen Betrag, welcher wie folgt errechnet wird:
@@ -91,9 +91,9 @@ plt.quiver(vector1[0], vector1[1], added_vector[0] - vector1[0], added_vector[1]
 
 # Pointing from vec2 to added_vector
 plt.quiver(vector2[0], vector2[1], added_vector[0] - vector2[0], added_vector[1] - vector2[1], angles='xy', scale_units='xy', scale=1, color='black', linestyle='dashed')
-
+plt.scatter(0, 0, color='black', label='Origin')
 plt.xlim(-1, 8)
-plt.ylim(-1, 5)
+plt.ylim(-2, 5)
 plt.xlabel('X')
 plt.ylabel('Y')
 plt.grid()
@@ -136,9 +136,23 @@ plt.show()
 
 ```
 
-### Vektoren und Geraden
-Hier ein Beispiel für einen Vektor der eine Gerade bestimmt: $g: \vec{x} =  \begin{bmatrix} 1 \\ -3 \end{bmatrix} + t * \begin{bmatrix}2 \\ 2\end{bmatrix}$
+###### Beispiele der Multiplikation
+1. $(-5) * \begin{bmatrix}-2\\1\\-1\end{bmatrix} = \begin{bmatrix}10\\-5\\5\end{bmatrix}$
+2. $7 * \begin{bmatrix}1\\2\\5\end{bmatrix} = \begin{bmatrix}7\\14\\35\end{bmatrix}$
+3. $\frac{1}{2} * \begin{bmatrix}4\\6\\8\end{bmatrix} = \begin{bmatrix}2\\3\\4\end{bmatrix}$
 
+### Vektoren und Geraden
+Mit Vektoren können Geraden ähnlich wie mit der "*normalen*" Formel $t(x) = mx+n$ berechnet werden. <br>
+Nur ist die Formel hier $x = \vec{p} + r * \vec{u}$
+
+- $\vec{p}$: Stützvektor<br>
+  - Beginnt im Ursprung und berührt die Gerade in einem Punkt
+- $\vec{u}$: Richtungsvektor
+  - liegt auf der Gerade, Richtung ist egal
+
+![](./assets/gerade_in_vektoren.jpg)
+
+Hier ein Beispiel für einen Vektor der eine Gerade bestimmt: $g: \vec{x} =  \begin{bmatrix} 1 \\ -3 \end{bmatrix} + t * \begin{bmatrix}2 \\ 2\end{bmatrix}$
 
 ## gegenseitige Lage von Geraden
 1. parallel
