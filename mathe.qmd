@@ -102,6 +102,9 @@ plt.show()
 
 ```
 
+#### Subtraktion
+Subtraktion von Vektoren ist praktisch identisch zur [Addition](#addition)
+
 #### Multiplikation mit Skalaren
 Um diese Art der Multiplikation zu verstehen muss der Begriff **Skalar** verstanden werden, der einfach nur heißt:<br>
 *Zahl welche mit Vektoren verrechnet wird und kein Vektor ist*
