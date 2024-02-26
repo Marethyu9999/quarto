@@ -9,7 +9,7 @@ format:
 # Für die Mathe Klausur relavente Themen
 - Integrale (Definition, Stammfunktion, Flächeninhalt, …)
   - *unwahscheinlich* Ober-/ Untersummen
-- [Vektoren](#vektoren) (Grundlagen, 3d-Koordinatensystem, [Beträge](#beträge), [Addition](#addition), Subtraktion, [Multiplikation mit Skalaren](#multiplikation-mit-skalaren))
+- [Vektoren](#vektoren) (Grundlagen, 3d-Koordinatensystem, [Beträge](#beträge), [Addition](#addition), [Subtraktion](#subtraktion), [Multiplikation mit Skalaren](#multiplikation-mit-skalaren))
 - Geraden
 - [gegenseitige Lage von Geraden](#gegenseitige-lage-von-geraden)
 - *vielleicht* Analysis
@@ -76,6 +76,8 @@ $$\begin{bmatrix}x_1\\y_1\\z_1\end{bmatrix}+\begin{bmatrix}x_2\\y_2\\z_3\end{bma
 ##### Graphische Addition
 
 ```{python}
+#| label: fig-vec_addition
+#| fig-cap: "Wie Vektoren Graphisch addiert werden können"
 import matplotlib.pyplot as plt
 
 vector1 = (4, -1)
@@ -115,9 +117,11 @@ Also:
 $$\vec{v} = \begin{bmatrix} x_1\\y_1 \end{bmatrix}$$ 
 $$\begin{bmatrix}x_1\\y_1\end{bmatrix} * t = \begin{bmatrix}x_1*t\\y_1*t\end{bmatrix} = \begin{bmatrix}x_2\\y_2\end{bmatrix}$$
 
-###### Graphische Multiplikation
+###### Graphische Multiplikation mit Skalaren
 
 ```{python}
+#| label: fig-vec_multiplication
+#| fig-cap: "Graphische Multiplikation mit einem Skalar"
 import matplotlib.pyplot as plt
 
 vector = (2, 2)
