@@ -1,1 +1,8 @@
+---
+title: "Hauptseite"
+format:
+  html:
+    code-fold: true
+---
+
 - [Klausur zum 28.02.2024](./mathe.qmd)

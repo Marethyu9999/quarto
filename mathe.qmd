@@ -151,7 +151,7 @@ plt.show()
 Mit Vektoren können Geraden ähnlich wie mit der "*normalen*" Formel $t(x) = mx+n$ berechnet werden. <br>
 Nur ist die Formel hier $x = \vec{p} + r * \vec{u}$
 
-- $\vec{p}$: Stützvektor<br>
+- $\vec{p}$: Stützvektor
   - Beginnt im Ursprung und berührt die Gerade in einem Punkt
 - $\vec{u}$: Richtungsvektor
   - liegt auf der Gerade, Richtung ist egal
@@ -159,6 +159,13 @@ Nur ist die Formel hier $x = \vec{p} + r * \vec{u}$
 ![](./assets/gerade_in_vektoren.jpg)
 
 Hier ein Beispiel für einen Vektor der eine Gerade bestimmt: $g: \vec{x} =  \begin{bmatrix} 1 \\ -3 \end{bmatrix} + t * \begin{bmatrix}2 \\ 2\end{bmatrix}$
+
+#### Beispiele von Geraden als Vektoren
+- Formel: $g: \vec{x} = \begin{bmatrix}1\\1\\2\end{bmatrix} + t * \begin{bmatrix}0\\-2\\7\end{bmatrix}$
+- $P_1$: $\begin{bmatrix}1\\1\\2\end{bmatrix} + 1 * \begin{bmatrix}0\\-2\\7\end{bmatrix} = \begin{bmatrix}1\\-1\\9\end{bmatrix} = P_1(1|-1)$
+- $P_2$: $\begin{bmatrix}1\\1\\2\end{bmatrix} + 2 * \begin{bmatrix}0\\-2\\7\end{bmatrix} = \begin{bmatrix}1\\-3\\16\end{bmatrix} = P_2(1|-3)$
+
+Jede andere Zahl als hier als Skalar für $t$ einsetzbar, und würde die gerade $g$ berühren, und somit kann jeder Punkt ermittelt werden.
 
 ## gegenseitige Lage von Geraden
 1. parallel
