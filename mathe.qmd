@@ -1,0 +1,75 @@
+---
+title: "Mathe Klausur zum 28.02.2024"
+format:
+  html:
+    code-fold: true
+# jupyter: python3
+---
+
+# Für die Mathe Klausur relavente Themen
+- Integrale (Definition, Stammfunktion, Flächeninhalt, …)
+  - *unwahscheinlich* Ober-/ Untersummen
+- Vektoren (Grundlagen, 3d-Koordinatensystem, Beträge, Addition, Subtraktion,Multi.)
+- Geraden
+- [gegenseitige Lage von Geraden](#gegenseitige-lage-von-geraden)
+- *vielleicht* Analysis
+
+## gegenseitige Lage von Geraden
+1. parallel
+    - sie haben keinen Schnittpunkt
+    - Richtungsvektoren sind parallel zueinander
+2. identisch
+3. windschief
+    - haben keinen Schnittpunkt
+    - weder parallel noch identisch
+4. schneidend
+    - besitzen genau einen Schnittpunkt
+
+## Vektoren
+
+### Was ist ein Vektor?
+Ein Vektor wie $\vec{t}=\begin{bmatrix}2\\4\\6\end{bmatrix}$ sieht wiefolgt aus:
+```{python}
+#| label: fig-test_3dvector
+#| fig-cap: "Ein Beispiel von einem 3D-Vektor"
+import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import Axes3D
+import numpy as np
+
+fig = plt.figure()
+ax = fig.add_subplot(111, projection='3d')
+
+t = np.array([2, 4, 6])
+
+ax.quiver(0, 0, 0, t[0], t[1], t[2])
+
+ax.set_xlim([0, 10])
+ax.set_ylim([0, 10])
+ax.set_zlim([0, 10])
+
+ax.set_xlabel('X')
+ax.set_ylabel('Y')
+ax.set_zlabel('Z')
+
+plt.show()
+```
+oder in 2D:
+
+```{python}
+#| label: fig-test_2dvector
+#| fig-cap: "Ein Beispiel von einem 2D-Vektor"
+import matplotlib.pyplot as plt
+
+vector = (2, 4)
+
+plt.quiver(0, 0, vector[0], vector[1], angles='xy', scale_units='xy', scale=1)
+plt.xlim(-5, 5)
+plt.ylim(-5, 5)
+plt.xlabel('X')
+plt.ylabel('Y')
+plt.grid()
+plt.show()
+```
+
+### Vektoren und Geraden
+Hier ein Beispiel für einen Vektor der eine Gerade bestimmt: $g: \vec{x} =  \begin{bmatrix} 1 \\ -3 \end{bmatrix} + t * \begin{bmatrix}2 \\ 2\end{bmatrix}$
