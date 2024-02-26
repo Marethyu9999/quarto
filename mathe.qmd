@@ -61,6 +61,7 @@ plt.show()
 ```
 
 und hat sowohl eine Richtung als auch einen Betrag. Sie können außerdem theoretisch unendlich viele Dimensionen haben.
+
 #### Beträge
 Sie haben sowohl eine Richtung als auch einen Betrag, welcher wie folgt errechnet wird:
 $$\vec{v} = \sqrt{x^2 + y^2 + z^2}$$
