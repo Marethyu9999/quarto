@@ -1,5 +1,6 @@
 ---
 title: "Mathe Klausur zum 28.02.2024"
+lang: de
 format:
   html:
     code-fold: true
@@ -10,7 +11,7 @@ format:
 - Integrale (Definition, Stammfunktion, Flächeninhalt, …)
   - *unwahscheinlich* Ober-/ Untersummen
 - [Vektoren](#vektoren) (Grundlagen, 3d-Koordinatensystem, [Beträge](#beträge), [Addition](#addition), [Subtraktion](#subtraktion), [Multiplikation mit Skalaren](#multiplikation-mit-skalaren))
-- Geraden
+- [Geraden](#vektoren-und-geraden)
 - [gegenseitige Lage von Geraden](#gegenseitige-lage-von-geraden)
 - *vielleicht* Analysis
 
@@ -63,7 +64,7 @@ plt.show()
 
 und hat sowohl eine Richtung als auch einen Betrag. <br>Sie können außerdem theoretisch unendlich viele Dimensionen haben.
 
-#### Beträge
+### Beträge
 Sie haben sowohl eine Richtung als auch einen Betrag, welcher wie folgt errechnet wird:
 $$\vec{v} = \sqrt{x^2 + y^2 + z^2}$$
 Was in [unserem Fall](#was-ist-ein-vektor) folgendes heißt: $\sqrt{2^2+4^2+6^2}=7,48$
@@ -105,10 +106,10 @@ plt.show()
 
 ```
 
-#### Subtraktion
+### Subtraktion
 Subtraktion von Vektoren ist praktisch identisch zur [Addition](#addition)
 
-#### Multiplikation mit Skalaren
+### Multiplikation mit Skalaren
 Um diese Art der Multiplikation zu verstehen muss der Begriff **Skalar** verstanden werden, der einfach nur heißt:<br>
 *Zahl welche mit Vektoren verrechnet wird und kein Vektor ist*
 
@@ -118,7 +119,7 @@ Also:
 $$\vec{v} = \begin{bmatrix} x_1\\y_1 \end{bmatrix}$$ 
 $$\begin{bmatrix}x_1\\y_1\end{bmatrix} * t = \begin{bmatrix}x_1*t\\y_1*t\end{bmatrix} = \begin{bmatrix}x_2\\y_2\end{bmatrix}$$
 
-###### Graphische Multiplikation mit Skalaren
+##### Graphische Multiplikation mit Skalaren
 
 ```{python}
 #| label: fig-vec_multiplication
