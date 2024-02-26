@@ -9,7 +9,7 @@ format:
 # Für die Mathe Klausur relavente Themen
 - Integrale (Definition, Stammfunktion, Flächeninhalt, …)
   - *unwahscheinlich* Ober-/ Untersummen
-- Vektoren (Grundlagen, 3d-Koordinatensystem, Beträge, Addition, Subtraktion,Multi.)
+- [Vektoren](#vektoren) (Grundlagen, 3d-Koordinatensystem, [Beträge](#beträge), Addition, Subtraktion,Multi.)
 - Geraden
 - [gegenseitige Lage von Geraden](#gegenseitige-lage-von-geraden)
 - *vielleicht* Analysis
@@ -71,5 +71,10 @@ plt.grid()
 plt.show()
 ```
 
+und hat sowohl eine Richtung als auch einen Betrag. Sie können außerdem theoretisch unendlich viele Dimensionen haben.
+#### Beträge
+Sie haben sowohl eine Richtung als auch einen Betrag, welcher wie folgt errechnet wird:
+$$\vec{v} = \sqrt{x^2 + y^2 + z^2}$$
+Was in [unserem Fall](#was-ist-ein-vektor) folgendes heißt: $\sqrt{2^2+4^2+6^2}=7,48$
 ### Vektoren und Geraden
 Hier ein Beispiel für einen Vektor der eine Gerade bestimmt: $g: \vec{x} =  \begin{bmatrix} 1 \\ -3 \end{bmatrix} + t * \begin{bmatrix}2 \\ 2\end{bmatrix}$
