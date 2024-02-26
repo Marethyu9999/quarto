@@ -165,7 +165,7 @@ Hier ein Beispiel für einen Vektor der eine Gerade bestimmt: $g: \vec{x} =  \be
 - $P_1$: $\begin{bmatrix}1\\1\\2\end{bmatrix} + 1 * \begin{bmatrix}0\\-2\\7\end{bmatrix} = \begin{bmatrix}1\\-1\\9\end{bmatrix} = P_1(1|-1)$
 - $P_2$: $\begin{bmatrix}1\\1\\2\end{bmatrix} + 2 * \begin{bmatrix}0\\-2\\7\end{bmatrix} = \begin{bmatrix}1\\-3\\16\end{bmatrix} = P_2(1|-3)$
 
-Jede andere Zahl als hier als Skalar für $t$ einsetzbar, und würde die gerade $g$ berühren, und somit kann jeder Punkt ermittelt werden.
+Jede andere Zahl als hier als Skalar für $t$ einsetzbar, und würde die gerade $g$ berühren, und somit kann theoretisch jeder Punkt ermittelt werden.
 
 ## gegenseitige Lage von Geraden
 1. parallel
@@ -177,3 +177,5 @@ Jede andere Zahl als hier als Skalar für $t$ einsetzbar, und würde die gerade 
     - weder parallel noch identisch
 4. schneidend
     - besitzen genau einen Schnittpunkt
+
+![](./assets/lagen-von-geraden.jpeg)
