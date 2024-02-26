@@ -42,7 +42,8 @@ ax.set_zlabel('Z')
 
 plt.show()
 ```
-oder in 2D:
+
+oder in 2D (heißt der Vektor ist jetzt $\vec{t} = \begin{bmatrix}2\\4\end{bmatrix}$):
 
 ```{python}
 #| label: fig-test_2dvector
