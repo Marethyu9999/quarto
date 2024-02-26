@@ -115,7 +115,7 @@ Also:
 $$\vec{v} = \begin{bmatrix} x_1\\y_1 \end{bmatrix}$$ 
 $$\begin{bmatrix}x_1\\y_1\end{bmatrix} * t = \begin{bmatrix}x_1*t\\y_1*t\end{bmatrix} = \begin{bmatrix}x_2\\y_2\end{bmatrix}$$
 
-##### Graphische Multiplikation
+###### Graphische Multiplikation
 
 ```{python}
 import matplotlib.pyplot as plt
