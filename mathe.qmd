@@ -4,11 +4,11 @@ lang: de
 format:
   html:
     code-fold: true
-# jupyter: python3
+jupyter: python3
 ---
 
 # Für die Mathe Klausur relavente Themen
-- Integrale (Definition, Stammfunktion, Flächeninhalt, …)
+- [Integrale](#integrale) ([Definition](#was-sind-integrale), Stammfunktion, Flächeninhalt, …)
   - *unwahscheinlich* Ober-/ Untersummen
 - [Vektoren](#vektoren) (Grundlagen, 3d-Koordinatensystem, [Beträge](#beträge), [Addition](#addition), [Subtraktion](#subtraktion), [Multiplikation mit Skalaren](#multiplikation-mit-skalaren))
 - [Geraden](#vektoren-und-geraden)
@@ -167,7 +167,7 @@ Hier ein Beispiel für einen Vektor der eine Gerade bestimmt: $g: \vec{x} =  \be
 
 Jede andere Zahl als hier als Skalar für $t$ einsetzbar, und würde die gerade $g$ berühren, und somit kann theoretisch jeder Punkt ermittelt werden.
 
-## gegenseitige Lage von Geraden
+### gegenseitige Lage von Geraden
 1. parallel
     - sie haben keinen Schnittpunkt
     - Richtungsvektoren sind parallel zueinander
@@ -179,3 +179,33 @@ Jede andere Zahl als hier als Skalar für $t$ einsetzbar, und würde die gerade 
     - besitzen genau einen Schnittpunkt
 
 ![](./assets/lagen-von-geraden.jpeg)
+
+## Integrale
+
+### Was sind Integrale?
+
+**Die Integralrechnung** ist ein **Zweig der Infinitesimalrechnung**, der zusammen mit der **Differentialrechnung** die mathematische **Analysis** bildet. Sie ist aus der Aufgabe entstanden, **Flächeninhalte oder Volumina zu berechnen**, die durch gekrümmte Linien oder Flächen begrenzt sind. 
+
+Unter dem Oberbegriff **Integral** werden das **unbestimmte** und das **bestimmte Integral** einer Funktion zusammengefasst. Hier sind die wichtigsten Aspekte:
+
+1. **Unbestimmtes Integral**: Eine Funktion *F* ist eine **Stammfunktion** der Funktion *f*, wenn ihre Ableitung *F'* genau die ursprüngliche Funktion *f* ist. Das unbestimmte Integral wird verwendet, um Stammfunktionen zu finden.
+2. **Bestimmtes Integral**: Das bestimmte Integral einer Funktion *f* ergibt eine **Zahl**. Es gibt den Inhalt der Fläche an, die im Intervall zwischen dem Graphen von *f* und der *x*-Achse liegt. Die Integrationsgrenzen *a* und *b* definieren den Bereich.
+
+### Wie werden Integrale gebildet?
+
+Ein Beispiel eines Integrals ist $\int_{-1}^{1} (2x + 1)dx$, welcher folgendes aussagt:<br>
+Der Bereich von dem wir den Flächeninhalt wollen ist **-1 bis 1** und die Formel der Funktion ist $f(x)=2x+1$.
+
+### Hauptsatz der Differenzial- und Integralrechnung
+
+$$
+\int_{a}^{b}  f(x)t=F(b)-F(a)
+$$
+
+- $F(x)$ ist die Stammfunktion der Funktion $f(x)$.
+- $F(x)$ ist somit $f(x)$ hochgeleitet (heißt umgekehrtes Ableiten)
+
+#### Beispiel des Haupsatzes der Integralrechnung
+
+$\int_0^4 x^2 dx = F(4) - F(0) = 21,\overline{3}$, was jetzt in $f(x)$ eingesetzt werden muss<br>
+$f(x) = x^2; [0;4]; F(x)=\frac{1}{3}x^3$
