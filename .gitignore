@@ -2,3 +2,12 @@
 _site/
 *_files/
 /.quarto/
+*.tex
+*.toc
+assets/signal-2024-02-29-112315_002.jpeg
+assets/signal-2024-02-29-112315_003.jpeg
+assets/signal-2024-02-29-112315_004.jpeg
+assets/Untitled-2024-02-29-1715 (1).png
+assets/Untitled-2024-02-29-1715.png
+assets/wurfplan.png
+test.qmd
