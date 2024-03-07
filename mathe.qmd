@@ -4,10 +4,11 @@ lang: de
 format:
   html:
     code-fold: true
+    
 jupyter: python3
 ---
 
-# Für die Mathe Klausur relavente Themen
+# Für die Mathe Klausur relavante Themen
 - [Integrale](#integrale) ([Definition](#was-sind-integrale), Stammfunktion, Flächeninhalt, …)
   - *unwahscheinlich* Ober-/ Untersummen
 - [Vektoren](#vektoren) (Grundlagen, 3d-Koordinatensystem, [Beträge](#beträge), [Addition](#addition), [Subtraktion](#subtraktion), [Multiplikation mit Skalaren](#multiplikation-mit-skalaren))
@@ -207,8 +208,19 @@ $$
 
 #### Beispiel des Haupsatzes der Integralrechnung
 
-1. Die Formel finden: $\int_0^4 x^2 dx$
-2. $f(x)$ finden (heißt die Zahlen vor dx lesen): $f(x)=x^2$
-3. $F(x)$ finden (hochleiten): $F(x) = \frac{1}{3} * x^3$
-4. $a$ und $b$ einsetzen und ausrechnen: $F(4) - F(0) = 21,\overline{3} + 0 = 21,\overline{3}$
+::: {.panel-tabset}
+
+##### Die Formel finden: 
+$\int_0^4 x^2 dx$
+
+##### $f(x)$ finden (heißt die Zahlen vor dx lesen): 
+$f(x)=x^2$
+
+##### $F(x)$ finden (hochleiten): 
+$F(x) = \frac{1}{3} * x^3$
+
+##### $a$ und $b$ einsetzen und ausrechnen: 
+$F(4) - F(0) = 21,\overline{3} + 0 = 21,\overline{3}$
+
    - oder das Ergebnis in einer anderen schreibweise: $f(x) = x^2; [0;4]; F(x)=\frac{1}{3}x^3$
+:::
