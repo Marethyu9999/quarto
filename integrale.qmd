@@ -1,7 +1,0 @@
----
-title: "Integrale"
-format:
-  html:
-    code-fold: true
-jupyter: python3
----

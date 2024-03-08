@@ -157,7 +157,7 @@ Nur ist die Formel hier $x = \vec{p} + r * \vec{u}$
 - $\vec{u}$: Richtungsvektor
   - liegt auf der Gerade, Richtung ist egal
 
-![](./assets/gerade_in_vektoren.jpg)
+![](/assets/gerade_in_vektoren.jpg)
 
 Hier ein Beispiel für einen Vektor der eine Gerade bestimmt: $g: \vec{x} =  \begin{bmatrix} 1 \\ -3 \end{bmatrix} + t * \begin{bmatrix}2 \\ 2\end{bmatrix}$
 
@@ -179,7 +179,7 @@ Jede andere Zahl als hier als Skalar für $t$ einsetzbar, und würde die gerade 
 4. schneidend
     - besitzen genau einen Schnittpunkt
 
-![](./assets/lagen-von-geraden.jpeg)
+![](/assets/lagen-von-geraden.jpeg)
 
 ## Integrale
 

@@ -1,8 +1,7 @@
----
-title: "Hauptseite"
-format:
-  html:
-    code-fold: true
----
+# Preface {.unnumbered}
 
-- [Klausur zum 28.02.2024](./mathe.qmd)
+This is a Quarto book.
+
+To learn more about Quarto books visit <https://quarto.org/docs/books>.
+
+a

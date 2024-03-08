@@ -1,1 +1,0 @@
-This is built using [quatro](https://quarto.org/)

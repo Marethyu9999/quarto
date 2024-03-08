@@ -1,20 +1,40 @@
 project:
-  type: website
-  render:
-  - "*.qmd"
-  - "!test.qmd"
-  - "!sport.qmd"
+  type: book
+  preview: 
+    watch-inputs: true
+    navigate: true
+    browser: false
+    port: 4200
 
-website:
+book:
   title: "Schule"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Hauptseite
-      # - about.qmd
+  author: "Erik Grobecker"
+  #date: "3/8/2024"
+  #downloads: [pdf, epub]
+  search: true
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - part: "Biologie"
+      chapters: 
+        - biologie/ökosysteme.qmd
+    - part: "Deutsch"
+      chapters: 
+        - deutsch/spracherwerbstheorien.qmd
+    - part: "Mathe"
+      chapters: 
+        - mathe/vektor-integrale.qmd
+    - part: "Philosophie"
+      chapters: 
+        - philosophie/kultur-essay.qmd
+    - summary.qmd
+    #- references.qmd
+
+bibliography: references.bib
 
 format:
   html:
     theme: cosmo
-    # css: styles.css
-    toc: true
+    lang: de
+  #pdf:
+  #  documentclass: scrreprt
