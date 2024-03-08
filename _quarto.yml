@@ -12,6 +12,8 @@ book:
   #date: "3/8/2024"
   #downloads: [pdf, epub]
   search: true
+  repo-url: "https://github.com/Marethyu9999/quarto"
+  repo-actions: [issue, edit, source]
   chapters:
     - index.qmd
     - intro.qmd
