@@ -4,8 +4,8 @@
 
 ### Biotische und abiotische Faktoren im Ökosystem
 
-[![Beispiele für abiotische und biotische Faktoren eines Ökosystems](/assets/abiotisch-und-biotisch.excalidraw.png){width="839"}](https://excalidraw.com/#json=JjYlYXfMn5-ds5SFz7MvT,3_WdTXm_1kg6hmVv6w_btA)
+[![Beispiele für abiotische und biotische Faktoren eines Ökosystems](/assets/abiotisch-und-biotisch.excalidraw.png){#bio-abiotische-und-biotische-merkmale width="839"}](https://excalidraw.com/#json=JjYlYXfMn5-ds5SFz7MvT,3_WdTXm_1kg6hmVv6w_btA)
 
 ### Optimumdiagramm von abiotischen Faktoren
 
-[![](/assets/optimumdiagramm.excalidraw.png){width="798"}](https://excalidraw.com/#json=43Me37RY1GnIbvDzQVDa0,rLBDcAn8wBqU8RK-P1lDmw)
+[![](/assets/optimumdiagramm.excalidraw.png){#bio-abiotische-Optimumsdiagramm width="798"}](https://excalidraw.com/#json=YWaEEX66DivwclQ0NT29o,fKYx1gz4QRMTvRzBLNJq5A)
