@@ -11,3 +11,7 @@ assets/Untitled-2024-02-29-1715 (1).png
 assets/Untitled-2024-02-29-1715.png
 assets/wurfplan.png
 test.qmd
+*.html
+*.pdf
+*.log
+*.aux
