@@ -1,0 +1,54 @@
+---
+title: "Essay über Kultur"
+format: html
+lang: de
+---
+
+## Frage:
+
+> **»Wie viel Kultur verträgt der Mensch? Wann wird sie lächerlich?«**
+
+### Stichpunkte
+
+-   konkrete Fragen:
+
+    -   was ist lächerliche Kultur? ➔ Wenn die Kultur
+
+    -   Gibt es ein Maximum?
+
+    -   Was heißt Kultur konkret?
+
+        -   Kulturtheorien
+
+    -   kann man Kultur ablehnen?
+
+-   Bezug zum Thema Glück soll hergestellt werden
+
+    -   verspricht die Kultur den Menschen Glück? ➔ Sie verspricht dem Menschen etwas was er erwarten kann ➜ Sicherheit
+
+    -   Welche Verbindung hat Kultur zu Glück? ➔ Wie wir Glück definieren hängt mit Kultur zusammen
+
+-   Aufführung von Kulturtheorien
+
+    -   »Kultur ist alles nicht-natürliche« — Gehlen (S. 48-50)
+
+    -   »Sprache als Bedingung zur Kultur« — Cassirer (S. 54-55)
+
+        -   Wenn ein Mensch die Sprache aufgrund von Komplexität nicht versteht, ist es zuviel?
+
+    -   »Unterteilung in *Es*, *Ich* und *Überich*« — Freud
+
+## Meine Antwort
+
+Wenn ich mir die Frage stelle, *wie viel Kultur der Mensch verträgt,* muss ich mich eigentlich zuerst fragen, was *Kultur überhaupt ist,* also sollte man Kulturtheorien auflisten.
+
+**Gehlen** erklärt sich die Kultur so, dass sie alles, was nicht natürlich ist, heißt zum Beispiel, die Art, wie wir leben, die Art, wie wir an Essen kommen und damit die Art, wie wir denken; damit sei der Mensch durch "Reduktion und Verunsicherung des Instinktlebens" geprägt. Hier wird der Unterschied zwischen Mensch und Tier so illustriert, dass Tiere rein nach Instinkt handeln, und der Mensch nach Instinkt und Kultur handelt und sich somit ebendiese *Kultur zur zweiten Natur macht*.\
+**Freud** allerdings behauptet, die Psyche seie in *Es, Ich und Überich* unterteilt, welche miteinander interagieren; das *Ich* sind die eigenen Gedanken, das *Es* die Instinkte und das *Überich* die anerzogene Moral/Ethik von Erziehungspersonen1 . Für mich persönlich stellt sich dann die Frage, ob beides nicht verknüpfbar wäre, da das *Überich* und *Ich* nicht so instinktiv geprägt sind wie das *Es*.\
+**Cassirer** bringt zu den beiden Anderen auch noch einen Bezug zur Sprache rein und definiert die Sprache als das *"Geben von Namen".\
+***Persönlich** habe ich Kultur zumeist als Dogma der Gesellschaft wahrgenommen und tendiere somit auch in Richtung Freuds.
+
+Wenn wir uns nun fragen, was Kultur denn jetzt eigentlich mit Glück zu tun hat, können wir verschiedene Perspektiven annehmen; zuerst könnten wir sagen, dass, was wir zu unserer zweiten Natur(Gehl) eine Kontrasterfahrung bilden könnten und dadurch beispielsweise laut Schmied eine *Kontrasterfahrung* hätten, damit würde die Kultur mehr oder weniger vorschreiben, wie wir agieren müssten, um Glück zu empfinden.\
+Mit Precht’s Theorie hingegen könnte man die vorherige These noch weiter unterstützen, da Kultur zu Teilen mit diktieren würde, was der Mensch als anstrebenswert empfindet, was noch weiter mit Freud's *Überich* vereinbar ist.
+
+Letztlich sollte man sich die letzte Frage, also *wann die Kultur lächerlich wird*, stellen wozu ich behaupten würde, dass Kultur sobald Glück welches durch sie entstehen soll zu schwer zu erreichen wird, wenn also im *Überich* oder in der *zweiten Natur* Ziele eingesetzt sind, welche für ein Individuum fast unerreichbar sind, ist diese lächerlich.\
+Dieser Punkt wird zu Teilen auch von heutigen Geschehnissen unterstützt, beispielsweise war die Unterdrückung (wenn nicht Unterjochung) von Frauen zur Zeit all dieser Philosophen normal und diese verstanden dies (soweit ich weiß) als normal, heute allerdings erachten wir selbiges als schlecht, war Kultur dann nicht in ihrem Fall lächerlich.
