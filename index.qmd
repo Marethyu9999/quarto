@@ -1,5 +1,12 @@
-# Preface {.unnumbered}
+# Vorwort {.unnumbered}
 
-This is a Quarto book.
+## Verwendete Software
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+1.  [Quarto](quarto.org)
+2.  [Excalidraw](excalidraw.com)
+    i)  wie beispielsweise in der @fig-bio_abiotische-und-biotische-merkmale oder in der @fig-bio_abiotische-Optimumsdiagramm
+    ii) jedes hiermit erstelltes Bild müsste anclickbar sein, und damit einfach annotierbar
+3.  [Visual Studio Code](https://code.visualstudio.com/)
+    1.  mit den Extensions:\
+        i) [Excalidraw](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor)\
+        ii) [Quarto](https://marketplace.visualstudio.com/items?itemName=quarto.quarto)

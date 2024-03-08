@@ -8,4 +8,4 @@
 
 ### Optimumdiagramm von abiotischen Faktoren
 
-[![](/assets/optimumdiagramm.excalidraw.png){#fig-bio_abiotische-Optimumsdiagramm width="798"}](https://excalidraw.com/#json=YWaEEX66DivwclQ0NT29o,fKYx1gz4QRMTvRzBLNJq5A)
+[![Optimumdiagramm mit abiotischen Faktoren](/assets/optimumdiagramm.excalidraw.png){#fig-bio_abiotische-Optimumsdiagramm width="798"}](https://excalidraw.com/#json=YWaEEX66DivwclQ0NT29o,fKYx1gz4QRMTvRzBLNJq5A)
