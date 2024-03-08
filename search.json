@@ -1,170 +1,121 @@
 [
   {
-    "objectID": "walkthrough.html",
-    "href": "walkthrough.html",
-    "title": "Hello, Quarto",
-    "section": "",
-    "text": "Markdown is an easy to read and write text format:\n\nIt’s plain text so works well with version control\nIt can be rendered into HTML, PDF, and more\nLearn more at: https://quarto.org/docs/authoring/"
-  },
-  {
-    "objectID": "walkthrough.html#markdown",
-    "href": "walkthrough.html#markdown",
-    "title": "Hello, Quarto",
-    "section": "",
-    "text": "Markdown is an easy to read and write text format:\n\nIt’s plain text so works well with version control\nIt can be rendered into HTML, PDF, and more\nLearn more at: https://quarto.org/docs/authoring/"
-  },
-  {
-    "objectID": "walkthrough.html#code-cell",
-    "href": "walkthrough.html#code-cell",
-    "title": "Hello, Quarto",
-    "section": "Code Cell",
-    "text": "Code Cell\nHere is a Python code cell:\n\nimport os\nos.cpu_count()\n\n4"
-  },
-  {
-    "objectID": "walkthrough.html#equation",
-    "href": "walkthrough.html#equation",
-    "title": "Hello, Quarto",
-    "section": "Equation",
-    "text": "Equation\nUse LaTeX to write equations:\n\\[\n\\chi' = \\sum_{i=1}^n k_i s_i^2\n\\]"
-  },
-  {
-    "objectID": "kultur-essay.html",
-    "href": "kultur-essay.html",
-    "title": "Essay über Kultur",
-    "section": "",
-    "text": "»Wie viel Kultur verträgt der Mensch? Wann wird sie lächerlich?«\n\n\n\n\nkonkrete Fragen:\n\nwas ist lächerliche Kultur? ➔ Wenn die Kultur\nGibt es ein Maximum?\nWas heißt Kultur konkret?\n\nKulturtheorien\n\nkann man Kultur ablehnen?\n\nBezug zum Thema Glück soll hergestellt werden\n\nverspricht die Kultur den Menschen Glück? ➔ Sie verspricht dem Menschen etwas was er erwarten kann ➜ Sicherheit\nWelche Verbindung hat Kultur zu Glück? ➔ Wie wir Glück definieren hängt mit Kultur zusammen\n\nAufführung von Kulturtheorien\n\n»Kultur ist alles nicht-natürliche« — Gehlen (S. 48-50)\n»Sprache als Bedingung zur Kultur« — Cassirer (S. 54-55)\n\nWenn ein Mensch die Sprache aufgrund von Komplexität nicht versteht, ist es zuviel?\n\n»Unterteilung in Es, Ich und Überich« — Freud"
-  },
-  {
-    "objectID": "kultur-essay.html#frage",
-    "href": "kultur-essay.html#frage",
-    "title": "Essay über Kultur",
-    "section": "",
-    "text": "»Wie viel Kultur verträgt der Mensch? Wann wird sie lächerlich?«\n\n\n\n\nkonkrete Fragen:\n\nwas ist lächerliche Kultur? ➔ Wenn die Kultur\nGibt es ein Maximum?\nWas heißt Kultur konkret?\n\nKulturtheorien\n\nkann man Kultur ablehnen?\n\nBezug zum Thema Glück soll hergestellt werden\n\nverspricht die Kultur den Menschen Glück? ➔ Sie verspricht dem Menschen etwas was er erwarten kann ➜ Sicherheit\nWelche Verbindung hat Kultur zu Glück? ➔ Wie wir Glück definieren hängt mit Kultur zusammen\n\nAufführung von Kulturtheorien\n\n»Kultur ist alles nicht-natürliche« — Gehlen (S. 48-50)\n»Sprache als Bedingung zur Kultur« — Cassirer (S. 54-55)\n\nWenn ein Mensch die Sprache aufgrund von Komplexität nicht versteht, ist es zuviel?\n\n»Unterteilung in Es, Ich und Überich« — Freud"
-  },
-  {
-    "objectID": "kultur-essay.html#meine-antwort",
-    "href": "kultur-essay.html#meine-antwort",
-    "title": "Essay über Kultur",
-    "section": "Meine Antwort",
-    "text": "Meine Antwort\nWenn ich mir die Frage stelle, wie viel Kultur der Mensch verträgt, muss ich mich eigentlich zuerst fragen, was Kultur überhaupt ist, also sollte man Kulturtheorien auflisten.\nGehlen erklärt sich die Kultur so, dass sie alles, was nicht natürlich ist, heißt zum Beispiel, die Art, wie wir leben, die Art, wie wir an Essen kommen und damit die Art, wie wir denken; damit sei der Mensch durch “Reduktion und Verunsicherung des Instinktlebens” geprägt. Hier wird der Unterschied zwischen Mensch und Tier so illustriert, dass Tiere rein nach Instinkt handeln, und der Mensch nach Instinkt und Kultur handelt und sich somit ebendiese Kultur zur zweiten Natur macht.\nFreud allerdings behauptet, die Psyche seie in Es, Ich und Überich unterteilt, welche miteinander interagieren; das Ich sind die eigenen Gedanken, das Es die Instinkte und das Überich die anerzogene Moral/Ethik von Erziehungspersonen1 . Für mich persönlich stellt sich dann die Frage, ob beides nicht verknüpfbar wäre, da das Überich und Ich nicht so instinktiv geprägt sind wie das Es.\nCassirer bringt zu den beiden Anderen auch noch einen Bezug zur Sprache rein und definiert die Sprache als das “Geben von Namen”.\nPersönlich habe ich Kultur zumeist als Dogma der Gesellschaft wahrgenommen und tendiere somit auch in Richtung Freuds.\nWenn wir uns nun fragen, was Kultur denn jetzt eigentlich mit Glück zu tun hat, können wir verschiedene Perspektiven annehmen; zuerst könnten wir sagen, dass, was wir zu unserer zweiten Natur(Gehl) eine Kontrasterfahrung bilden könnten und dadurch beispielsweise laut Schmied eine Kontrasterfahrung hätten, damit würde die Kultur mehr oder weniger vorschreiben, wie wir agieren müssten, um Glück zu empfinden.\nMit Precht’s Theorie hingegen könnte man die vorherige These noch weiter unterstützen, da Kultur zu Teilen mit diktieren würde, was der Mensch als anstrebenswert empfindet, was noch weiter mit Freud’s Überich vereinbar ist.\nLetztlich sollte man sich die letzte Frage, also wann die Kultur lächerlich wird, stellen wozu ich behaupten würde, dass Kultur sobald Glück welches durch sie entstehen soll zu schwer zu erreichen wird, wenn also im Überich oder in der zweiten Natur Ziele eingesetzt sind, welche für ein Individuum fast unerreichbar sind, ist diese lächerlich.\nDieser Punkt wird zu Teilen auch von heutigen Geschehnissen unterstützt, beispielsweise war die Unterdrückung (wenn nicht Unterjochung) von Frauen zur Zeit all dieser Philosophen normal und diese verstanden dies (soweit ich weiß) als normal, heute allerdings erachten wir selbiges als schlecht, war Kultur dann nicht in ihrem Fall lächerlich."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Hauptseite",
+    "title": "Schule",
     "section": "",
-    "text": "Klausur zum 28.02.2024"
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\na",
+    "crumbs": [
+      "Preface"
+    ]
   },
   {
-    "objectID": "Deutsch/summary.html",
-    "href": "Deutsch/summary.html",
-    "title": "Summary",
+    "objectID": "biologie/ökosysteme.html",
+    "href": "biologie/ökosysteme.html",
+    "title": "2  Ökosysteme",
     "section": "",
-    "text": "Summary\nIn summary, this book has no content whatsoever."
+    "text": "2.1 Einleitung",
+    "crumbs": [
+      "Biologie",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Ökosysteme</span>"
+    ]
   },
   {
-    "objectID": "Deutsch/intro.html",
-    "href": "Deutsch/intro.html",
-    "title": "Introduction",
+    "objectID": "biologie/ökosysteme.html#einleitung",
+    "href": "biologie/ökosysteme.html#einleitung",
+    "title": "2  Ökosysteme",
     "section": "",
-    "text": "Introduction\nThis is a book created from markdown and executable code.\nSee @knuth84 for additional discussion of literate programming."
+    "text": "2.1.1 Biotische und abiotische Faktoren im Ökosystem\n\n\n\nBeispiele für abiotische und biotische Faktoren eines Ökosystems\n\n\n\n\n2.1.2 Optimumdiagramm von abiotischen Faktoren",
+    "crumbs": [
+      "Biologie",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Ökosysteme</span>"
+    ]
   },
   {
-    "objectID": "Biologie/ökosysteme/einleitung.html",
-    "href": "Biologie/ökosysteme/einleitung.html",
-    "title": "Einleitung",
+    "objectID": "deutsch/spracherwerbstheorien.html#footnotes",
+    "href": "deutsch/spracherwerbstheorien.html#footnotes",
+    "title": "3  Spracherwerbstheorien",
     "section": "",
-    "text": "Beispiele für abiotische und biotische Faktoren eines Ökosystems"
+    "text": "wird Piaje gesprochen↩︎",
+    "crumbs": [
+      "Deutsch",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Spracherwerbstheorien</span>"
+    ]
   },
   {
-    "objectID": "Biologie/ökosysteme/einleitung.html#biotische-und-abiotische-faktoren-im-ökosystem",
-    "href": "Biologie/ökosysteme/einleitung.html#biotische-und-abiotische-faktoren-im-ökosystem",
-    "title": "Einleitung",
+    "objectID": "mathe/vektor-integrale.html",
+    "href": "mathe/vektor-integrale.html",
+    "title": "4  Mathe Klausur zum 28.02.2024",
     "section": "",
-    "text": "Beispiele für abiotische und biotische Faktoren eines Ökosystems"
+    "text": "5 Für die Mathe Klausur relavante Themen",
+    "crumbs": [
+      "Mathe",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Mathe Klausur zum 28.02.2024</span>"
+    ]
   },
   {
-    "objectID": "Biologie/summary.html",
-    "href": "Biologie/summary.html",
-    "title": "Summary",
-    "section": "",
-    "text": "Summary\nIn summary, this book has no content whatsoever."
+    "objectID": "mathe/vektor-integrale.html#vektoren",
+    "href": "mathe/vektor-integrale.html#vektoren",
+    "title": "4  Mathe Klausur zum 28.02.2024",
+    "section": "5.1 Vektoren",
+    "text": "5.1 Vektoren\n\n5.1.1 Was ist ein Vektor?\nEin Vektor wie \\(\\vec{t}=\\begin{bmatrix}2\\\\4\\\\6\\end{bmatrix}\\) sieht wiefolgt aus:\n\n\nCode\nimport matplotlib.pyplot as plt\nfrom mpl_toolkits.mplot3d import Axes3D\nimport numpy as np\n\nfig = plt.figure()\nax = fig.add_subplot(111, projection='3d')\n\nt = np.array([2, 4, 6])\n\nax.quiver(0, 0, 0, t[0], t[1], t[2])\n\nax.set_xlim([0, 10])\nax.set_ylim([0, 10])\nax.set_zlim([0, 10])\n\nax.set_xlabel('X')\nax.set_ylabel('Y')\nax.set_zlabel('Z')\n\nplt.show()\n\n\n\n\n\n\n\n\nAbbildung 5.1: Ein Beispiel von einem 3D-Vektor\n\n\n\n\n\noder in 2D (heißt der Vektor ist jetzt \\(\\vec{t} = \\begin{bmatrix}2\\\\4\\end{bmatrix}\\)):\n\n\nCode\nimport matplotlib.pyplot as plt\n\nvector = (2, 4)\n\nplt.quiver(0, 0, vector[0], vector[1], angles='xy', scale_units='xy', scale=1)\nplt.xlim(-1, 3)\nplt.ylim(-1, 5)\nplt.xlabel('X')\nplt.ylabel('Y')\nplt.grid()\nplt.show()\n\n\n\n\n\n\n\n\nAbbildung 5.2: Ein Beispiel von einem 2D-Vektor\n\n\n\n\n\nund hat sowohl eine Richtung als auch einen Betrag. Sie können außerdem theoretisch unendlich viele Dimensionen haben.\n\n\n5.1.2 Beträge\nSie haben sowohl eine Richtung als auch einen Betrag, welcher wie folgt errechnet wird: \\[\\vec{v} = \\sqrt{x^2 + y^2 + z^2}\\] Was in unserem Fall folgendes heißt: \\(\\sqrt{2^2+4^2+6^2}=7,48\\)\n\n5.1.2.1 Addition\nVektoren zu addieren ist denkbar einfach, wie hier: \\[\\begin{bmatrix}4\\\\-1\\\\2\\end{bmatrix}+\\begin{bmatrix}3\\\\2\\\\-4\\end{bmatrix}=\\begin{bmatrix}7\\\\1\\\\-2\\end{bmatrix}\\] Wie vielleicht zu erkennen ist, werden jediglich die Werte der selbigen Dimensionen addiert, was heißt: \\[\\begin{bmatrix}x_1\\\\y_1\\\\z_1\\end{bmatrix}+\\begin{bmatrix}x_2\\\\y_2\\\\z_3\\end{bmatrix}=\\begin{bmatrix}x_3\\\\y_3\\\\z_3\\end{bmatrix}\\]\n\n5.1.2.1.1 Graphische Addition\n\n\nCode\nimport matplotlib.pyplot as plt\n\nvector1 = (4, -1)\nvector2 = (3, 2)\nadded_vector = (vector1[0] + vector2[0], vector1[1] + vector2[1])\n\nplt.quiver(0, 0, vector1[0], vector1[1], angles='xy', scale_units='xy', scale=1, color='blue', label='Vector 1')\nplt.quiver(0, 0, vector2[0], vector2[1], angles='xy', scale_units='xy', scale=1, color='red', label='Vector 2')\nplt.quiver(0, 0, added_vector[0], added_vector[1], angles='xy', scale_units='xy', scale=1, color='green', label='Added Vector')\n\n# Pointing from vec1 to added_vector\nplt.quiver(vector1[0], vector1[1], added_vector[0] - vector1[0], added_vector[1] - vector1[1], angles='xy', scale_units='xy', scale=1, color='black', linestyle='dashed')\n\n# Pointing from vec2 to added_vector\nplt.quiver(vector2[0], vector2[1], added_vector[0] - vector2[0], added_vector[1] - vector2[1], angles='xy', scale_units='xy', scale=1, color='black', linestyle='dashed')\nplt.scatter(0, 0, color='black', label='Origin')\nplt.xlim(-1, 8)\nplt.ylim(-2, 5)\nplt.xlabel('X')\nplt.ylabel('Y')\nplt.grid()\nplt.legend()\nplt.show()\n\n\n\n\n\n\n\n\nAbbildung 5.3: Wie Vektoren Graphisch addiert werden können\n\n\n\n\n\n\n\n\n\n5.1.3 Subtraktion\nSubtraktion von Vektoren ist praktisch identisch zur Addition\n\n\n5.1.4 Multiplikation mit Skalaren\nUm diese Art der Multiplikation zu verstehen muss der Begriff Skalar verstanden werden, der einfach nur heißt: Zahl welche mit Vektoren verrechnet wird und kein Vektor ist\nAls Beispiel nehme ich jetzt mal \\(\\vec{a}=\\begin{bmatrix}2\\\\2\\end{bmatrix}\\) und \\(\\begin{bmatrix}2\\\\2\\end{bmatrix}*2=\\begin{bmatrix}4\\\\4\\end{bmatrix}\\)\nAlso: \\[\\vec{v} = \\begin{bmatrix} x_1\\\\y_1 \\end{bmatrix}\\] \\[\\begin{bmatrix}x_1\\\\y_1\\end{bmatrix} * t = \\begin{bmatrix}x_1*t\\\\y_1*t\\end{bmatrix} = \\begin{bmatrix}x_2\\\\y_2\\end{bmatrix}\\]\n\n5.1.4.0.1 Graphische Multiplikation mit Skalaren\n\n\nCode\nimport matplotlib.pyplot as plt\n\nvector = (2, 2)\nmultiplied_vector = (vector[0] * 2, vector[1] * 2)\n\nplt.quiver(0, 0, vector[0], vector[1], angles='xy', scale_units='xy', scale=1, color='blue', label='Original Vector')\nplt.quiver(0, 0, multiplied_vector[0], multiplied_vector[1], angles='xy', scale_units='xy', scale=1, color='red', label='Multiplied Vector')\n\nplt.xlim(-1, 5)\nplt.ylim(-1, 5)\nplt.xlabel('X')\nplt.ylabel('Y')\nplt.grid()\nplt.legend()\nplt.show()\n\n\n\n\n\n\n\n\nAbbildung 5.4: Graphische Multiplikation mit einem Skalar\n\n\n\n\n\n\n5.1.4.0.1.1 Beispiele der Multiplikation\n\n\\((-5) * \\begin{bmatrix}-2\\\\1\\\\-1\\end{bmatrix} = \\begin{bmatrix}10\\\\-5\\\\5\\end{bmatrix}\\)\n\\(7 * \\begin{bmatrix}1\\\\2\\\\5\\end{bmatrix} = \\begin{bmatrix}7\\\\14\\\\35\\end{bmatrix}\\)\n\\(\\frac{1}{2} * \\begin{bmatrix}4\\\\6\\\\8\\end{bmatrix} = \\begin{bmatrix}2\\\\3\\\\4\\end{bmatrix}\\)\n\n\n\n\n\n5.1.5 Vektoren und Geraden\nMit Vektoren können Geraden ähnlich wie mit der “normalen” Formel \\(t(x) = mx+n\\) berechnet werden.  Nur ist die Formel hier \\(x = \\vec{p} + r * \\vec{u}\\)\n\n\\(\\vec{p}\\): Stützvektor\n\nBeginnt im Ursprung und berührt die Gerade in einem Punkt\n\n\\(\\vec{u}\\): Richtungsvektor\n\nliegt auf der Gerade, Richtung ist egal\n\n\n\nHier ein Beispiel für einen Vektor der eine Gerade bestimmt: \\(g: \\vec{x} =  \\begin{bmatrix} 1 \\\\ -3 \\end{bmatrix} + t * \\begin{bmatrix}2 \\\\ 2\\end{bmatrix}\\)\n\n5.1.5.1 Beispiele von Geraden als Vektoren\n\nFormel: \\(g: \\vec{x} = \\begin{bmatrix}1\\\\1\\\\2\\end{bmatrix} + t * \\begin{bmatrix}0\\\\-2\\\\7\\end{bmatrix}\\)\n\\(P_1\\): \\(\\begin{bmatrix}1\\\\1\\\\2\\end{bmatrix} + 1 * \\begin{bmatrix}0\\\\-2\\\\7\\end{bmatrix} = \\begin{bmatrix}1\\\\-1\\\\9\\end{bmatrix} = P_1(1|-1)\\)\n\\(P_2\\): \\(\\begin{bmatrix}1\\\\1\\\\2\\end{bmatrix} + 2 * \\begin{bmatrix}0\\\\-2\\\\7\\end{bmatrix} = \\begin{bmatrix}1\\\\-3\\\\16\\end{bmatrix} = P_2(1|-3)\\)\n\nJede andere Zahl als hier als Skalar für \\(t\\) einsetzbar, und würde die gerade \\(g\\) berühren, und somit kann theoretisch jeder Punkt ermittelt werden.\n\n\n\n5.1.6 gegenseitige Lage von Geraden\n\nparallel\n\nsie haben keinen Schnittpunkt\nRichtungsvektoren sind parallel zueinander\n\nidentisch\nwindschief\n\nhaben keinen Schnittpunkt\nweder parallel noch identisch\n\nschneidend\n\nbesitzen genau einen Schnittpunkt",
+    "crumbs": [
+      "Mathe",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Mathe Klausur zum 28.02.2024</span>"
+    ]
   },
   {
-    "objectID": "Biologie/intro.html",
-    "href": "Biologie/intro.html",
-    "title": "Einleitung",
-    "section": "",
-    "text": "Einleitung"
+    "objectID": "mathe/vektor-integrale.html#integrale",
+    "href": "mathe/vektor-integrale.html#integrale",
+    "title": "4  Mathe Klausur zum 28.02.2024",
+    "section": "5.2 Integrale",
+    "text": "5.2 Integrale\n\n5.2.1 Was sind Integrale?\nDie Integralrechnung ist ein Zweig der Infinitesimalrechnung, der zusammen mit der Differentialrechnung die mathematische Analysis bildet. Sie ist aus der Aufgabe entstanden, Flächeninhalte oder Volumina zu berechnen, die durch gekrümmte Linien oder Flächen begrenzt sind.\nUnter dem Oberbegriff Integral werden das unbestimmte und das bestimmte Integral einer Funktion zusammengefasst. Hier sind die wichtigsten Aspekte:\n\nUnbestimmtes Integral: Eine Funktion F ist eine Stammfunktion der Funktion f, wenn ihre Ableitung F’ genau die ursprüngliche Funktion f ist. Das unbestimmte Integral wird verwendet, um Stammfunktionen zu finden.\nBestimmtes Integral: Das bestimmte Integral einer Funktion f ergibt eine Zahl. Es gibt den Inhalt der Fläche an, die im Intervall zwischen dem Graphen von f und der x-Achse liegt. Die Integrationsgrenzen a und b definieren den Bereich.\n\n\n\n5.2.2 Wie werden Integrale gebildet?\nEin Beispiel eines Integrals ist \\(\\int_{-1}^{1} (2x + 1)dx\\), welcher folgendes aussagt: Der Bereich von dem wir den Flächeninhalt wollen ist -1 bis 1 und die Formel der Funktion ist \\(f(x)=2x+1\\).\n\n\n5.2.3 Hauptsatz der Differenzial- und Integralrechnung\n\\[\n\\int_{a}^{b}  f(x)t=F(b)-F(a)\n\\]\n\n\\(F(x)\\) ist die Stammfunktion der Funktion \\(f(x)\\).\n\\(F(x)\\) ist somit \\(f(x)\\) hochgeleitet (heißt umgekehrtes Ableiten)\n\n\n5.2.3.1 Beispiel des Haupsatzes der Integralrechnung\n\nDie Formel finden:\\(f(x)\\) finden (heißt die Zahlen vor dx lesen):\\(F(x)\\) finden (hochleiten):\\(a\\) und \\(b\\) einsetzen und ausrechnen:\n\n\n\\(\\int_0^4 x^2 dx\\)\n\n\n\\(f(x)=x^2\\)\n\n\n\\(F(x) = \\frac{1}{3} * x^3\\)\n\n\n\\(F(4) - F(0) = 21,\\overline{3} + 0 = 21,\\overline{3}\\)\n\noder das Ergebnis in einer anderen schreibweise: \\(f(x) = x^2; [0;4]; F(x)=\\frac{1}{3}x^3\\)",
+    "crumbs": [
+      "Mathe",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Mathe Klausur zum 28.02.2024</span>"
+    ]
   },
   {
-    "objectID": "Biologie/index.html",
-    "href": "Biologie/index.html",
-    "title": "Preface",
+    "objectID": "philosophie/kultur-essay.html",
+    "href": "philosophie/kultur-essay.html",
+    "title": "5  Essay über Kultur",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\na"
+    "text": "5.1 Frage:",
+    "crumbs": [
+      "Philosophie",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Essay über Kultur</span>"
+    ]
   },
   {
-    "objectID": "Biologie/references.html",
-    "href": "Biologie/references.html",
-    "title": "References",
+    "objectID": "philosophie/kultur-essay.html#frage",
+    "href": "philosophie/kultur-essay.html#frage",
+    "title": "5  Essay über Kultur",
     "section": "",
-    "text": "References"
+    "text": "»Wie viel Kultur verträgt der Mensch? Wann wird sie lächerlich?«\n\n\n5.1.1 Stichpunkte\n\nkonkrete Fragen:\n\nwas ist lächerliche Kultur? ➔ Wenn die Kultur\nGibt es ein Maximum?\nWas heißt Kultur konkret?\n\nKulturtheorien\n\nkann man Kultur ablehnen?\n\nBezug zum Thema Glück soll hergestellt werden\n\nverspricht die Kultur den Menschen Glück? ➔ Sie verspricht dem Menschen etwas was er erwarten kann ➜ Sicherheit\nWelche Verbindung hat Kultur zu Glück? ➔ Wie wir Glück definieren hängt mit Kultur zusammen\n\nAufführung von Kulturtheorien\n\n»Kultur ist alles nicht-natürliche« — Gehlen (S. 48-50)\n»Sprache als Bedingung zur Kultur« — Cassirer (S. 54-55)\n\nWenn ein Mensch die Sprache aufgrund von Komplexität nicht versteht, ist es zuviel?\n\n»Unterteilung in Es, Ich und Überich« — Freud",
+    "crumbs": [
+      "Philosophie",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Essay über Kultur</span>"
+    ]
   },
   {
-    "objectID": "Biologie/Ökosysteme.html",
-    "href": "Biologie/Ökosysteme.html",
-    "title": "Ökosysteme",
-    "section": "",
-    "text": "Ökosysteme"
+    "objectID": "philosophie/kultur-essay.html#meine-antwort",
+    "href": "philosophie/kultur-essay.html#meine-antwort",
+    "title": "5  Essay über Kultur",
+    "section": "5.2 Meine Antwort",
+    "text": "5.2 Meine Antwort\nWenn ich mir die Frage stelle, wie viel Kultur der Mensch verträgt, muss ich mich eigentlich zuerst fragen, was Kultur überhaupt ist, also sollte man Kulturtheorien auflisten.\nGehlen erklärt sich die Kultur so, dass sie alles, was nicht natürlich ist, heißt zum Beispiel, die Art, wie wir leben, die Art, wie wir an Essen kommen und damit die Art, wie wir denken; damit sei der Mensch durch “Reduktion und Verunsicherung des Instinktlebens” geprägt. Hier wird der Unterschied zwischen Mensch und Tier so illustriert, dass Tiere rein nach Instinkt handeln, und der Mensch nach Instinkt und Kultur handelt und sich somit ebendiese Kultur zur zweiten Natur macht.\nFreud allerdings behauptet, die Psyche seie in Es, Ich und Überich unterteilt, welche miteinander interagieren; das Ich sind die eigenen Gedanken, das Es die Instinkte und das Überich die anerzogene Moral/Ethik von Erziehungspersonen1 . Für mich persönlich stellt sich dann die Frage, ob beides nicht verknüpfbar wäre, da das Überich und Ich nicht so instinktiv geprägt sind wie das Es.\nCassirer bringt zu den beiden Anderen auch noch einen Bezug zur Sprache rein und definiert die Sprache als das “Geben von Namen”.\nPersönlich habe ich Kultur zumeist als Dogma der Gesellschaft wahrgenommen und tendiere somit auch in Richtung Freuds.\nWenn wir uns nun fragen, was Kultur denn jetzt eigentlich mit Glück zu tun hat, können wir verschiedene Perspektiven annehmen; zuerst könnten wir sagen, dass, was wir zu unserer zweiten Natur(Gehl) eine Kontrasterfahrung bilden könnten und dadurch beispielsweise laut Schmied eine Kontrasterfahrung hätten, damit würde die Kultur mehr oder weniger vorschreiben, wie wir agieren müssten, um Glück zu empfinden.\nMit Precht’s Theorie hingegen könnte man die vorherige These noch weiter unterstützen, da Kultur zu Teilen mit diktieren würde, was der Mensch als anstrebenswert empfindet, was noch weiter mit Freud’s Überich vereinbar ist.\nLetztlich sollte man sich die letzte Frage, also wann die Kultur lächerlich wird, stellen wozu ich behaupten würde, dass Kultur sobald Glück welches durch sie entstehen soll zu schwer zu erreichen wird, wenn also im Überich oder in der zweiten Natur Ziele eingesetzt sind, welche für ein Individuum fast unerreichbar sind, ist diese lächerlich.\nDieser Punkt wird zu Teilen auch von heutigen Geschehnissen unterstützt, beispielsweise war die Unterdrückung (wenn nicht Unterjochung) von Frauen zur Zeit all dieser Philosophen normal und diese verstanden dies (soweit ich weiß) als normal, heute allerdings erachten wir selbiges als schlecht, war Kultur dann nicht in ihrem Fall lächerlich.",
+    "crumbs": [
+      "Philosophie",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Essay über Kultur</span>"
+    ]
   },
   {
-    "objectID": "Deutsch/index.html",
-    "href": "Deutsch/index.html",
-    "title": "Preface",
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "6  Summary",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books."
-  },
-  {
-    "objectID": "Deutsch/references.html",
-    "href": "Deutsch/references.html",
-    "title": "References",
-    "section": "",
-    "text": "References"
-  },
-  {
-    "objectID": "deutsch.html",
-    "href": "deutsch.html",
-    "title": "Deutsch",
-    "section": "",
-    "text": "Nativismus\nBehaviourismus\nKognitivismus\nInteraktionismus\n\n\n\n\nHauptvertreter\nChomsky (Universalgrammatik)\nSkinner (Behaviourismus)\nPiaget1\nWygotsky\n\n\nWelcher Mechanismus liegt der Spracherwerb zugrunde?\nNeugeborene haben eine genetische Veranlagung für Grammatik, die konkreten Einzelsprachen werden durch Auseinandersetzung mit der Umwelt gelernt\nSprache wird durch Imitation erlernt und durch Bestrafung oder Belohnung verstärkt\nSprache wird durch Ausprobieren und Konstruktion erlernt\nWahrnehmung Gedächtnis, Problemlösen/Denken\nPersönlichkeit + Umwelt\nZusammenhang zum Nativismus und Kognitivsmus\n\n\nRezeption der Theorie"
-  },
-  {
-    "objectID": "deutsch.html#footnotes",
-    "href": "deutsch.html#footnotes",
-    "title": "Deutsch",
-    "section": "Fußnoten",
-    "text": "Fußnoten\n\n\nwird Piaje gesprochen↩︎"
-  },
-  {
-    "objectID": "mathe.html",
-    "href": "mathe.html",
-    "title": "Mathe Klausur zum 28.02.2024",
-    "section": "",
-    "text": "Integrale (Definition, Stammfunktion, Flächeninhalt, …)\n\nunwahscheinlich Ober-/ Untersummen\n\nVektoren (Grundlagen, 3d-Koordinatensystem, Beträge, Addition, Subtraktion, Multiplikation mit Skalaren)\nGeraden\ngegenseitige Lage von Geraden\nvielleicht Analysis\n\n\n\n\n\nEin Vektor wie \\(\\vec{t}=\\begin{bmatrix}2\\\\4\\\\6\\end{bmatrix}\\) sieht wiefolgt aus:\n\n\nCode\nimport matplotlib.pyplot as plt\nfrom mpl_toolkits.mplot3d import Axes3D\nimport numpy as np\n\nfig = plt.figure()\nax = fig.add_subplot(111, projection='3d')\n\nt = np.array([2, 4, 6])\n\nax.quiver(0, 0, 0, t[0], t[1], t[2])\n\nax.set_xlim([0, 10])\nax.set_ylim([0, 10])\nax.set_zlim([0, 10])\n\nax.set_xlabel('X')\nax.set_ylabel('Y')\nax.set_zlabel('Z')\n\nplt.show()\n\n\n\n\n\n\n\n\nAbbildung 1: Ein Beispiel von einem 3D-Vektor\n\n\n\n\n\noder in 2D (heißt der Vektor ist jetzt \\(\\vec{t} = \\begin{bmatrix}2\\\\4\\end{bmatrix}\\)):\n\n\nCode\nimport matplotlib.pyplot as plt\n\nvector = (2, 4)\n\nplt.quiver(0, 0, vector[0], vector[1], angles='xy', scale_units='xy', scale=1)\nplt.xlim(-1, 3)\nplt.ylim(-1, 5)\nplt.xlabel('X')\nplt.ylabel('Y')\nplt.grid()\nplt.show()\n\n\n\n\n\n\n\n\nAbbildung 2: Ein Beispiel von einem 2D-Vektor\n\n\n\n\n\nund hat sowohl eine Richtung als auch einen Betrag. Sie können außerdem theoretisch unendlich viele Dimensionen haben.\n\n\n\nSie haben sowohl eine Richtung als auch einen Betrag, welcher wie folgt errechnet wird: \\[\\vec{v} = \\sqrt{x^2 + y^2 + z^2}\\] Was in unserem Fall folgendes heißt: \\(\\sqrt{2^2+4^2+6^2}=7,48\\)\n\n\nVektoren zu addieren ist denkbar einfach, wie hier: \\[\\begin{bmatrix}4\\\\-1\\\\2\\end{bmatrix}+\\begin{bmatrix}3\\\\2\\\\-4\\end{bmatrix}=\\begin{bmatrix}7\\\\1\\\\-2\\end{bmatrix}\\] Wie vielleicht zu erkennen ist, werden jediglich die Werte der selbigen Dimensionen addiert, was heißt: \\[\\begin{bmatrix}x_1\\\\y_1\\\\z_1\\end{bmatrix}+\\begin{bmatrix}x_2\\\\y_2\\\\z_3\\end{bmatrix}=\\begin{bmatrix}x_3\\\\y_3\\\\z_3\\end{bmatrix}\\]\n\n\n\n\nCode\nimport matplotlib.pyplot as plt\n\nvector1 = (4, -1)\nvector2 = (3, 2)\nadded_vector = (vector1[0] + vector2[0], vector1[1] + vector2[1])\n\nplt.quiver(0, 0, vector1[0], vector1[1], angles='xy', scale_units='xy', scale=1, color='blue', label='Vector 1')\nplt.quiver(0, 0, vector2[0], vector2[1], angles='xy', scale_units='xy', scale=1, color='red', label='Vector 2')\nplt.quiver(0, 0, added_vector[0], added_vector[1], angles='xy', scale_units='xy', scale=1, color='green', label='Added Vector')\n\n# Pointing from vec1 to added_vector\nplt.quiver(vector1[0], vector1[1], added_vector[0] - vector1[0], added_vector[1] - vector1[1], angles='xy', scale_units='xy', scale=1, color='black', linestyle='dashed')\n\n# Pointing from vec2 to added_vector\nplt.quiver(vector2[0], vector2[1], added_vector[0] - vector2[0], added_vector[1] - vector2[1], angles='xy', scale_units='xy', scale=1, color='black', linestyle='dashed')\nplt.scatter(0, 0, color='black', label='Origin')\nplt.xlim(-1, 8)\nplt.ylim(-2, 5)\nplt.xlabel('X')\nplt.ylabel('Y')\nplt.grid()\nplt.legend()\nplt.show()\n\n\n\n\n\n\n\n\nAbbildung 3: Wie Vektoren Graphisch addiert werden können\n\n\n\n\n\n\n\n\n\n\nSubtraktion von Vektoren ist praktisch identisch zur Addition\n\n\n\nUm diese Art der Multiplikation zu verstehen muss der Begriff Skalar verstanden werden, der einfach nur heißt: Zahl welche mit Vektoren verrechnet wird und kein Vektor ist\nAls Beispiel nehme ich jetzt mal \\(\\vec{a}=\\begin{bmatrix}2\\\\2\\end{bmatrix}\\) und \\(\\begin{bmatrix}2\\\\2\\end{bmatrix}*2=\\begin{bmatrix}4\\\\4\\end{bmatrix}\\)\nAlso: \\[\\vec{v} = \\begin{bmatrix} x_1\\\\y_1 \\end{bmatrix}\\] \\[\\begin{bmatrix}x_1\\\\y_1\\end{bmatrix} * t = \\begin{bmatrix}x_1*t\\\\y_1*t\\end{bmatrix} = \\begin{bmatrix}x_2\\\\y_2\\end{bmatrix}\\]\n\n\n\n\nCode\nimport matplotlib.pyplot as plt\n\nvector = (2, 2)\nmultiplied_vector = (vector[0] * 2, vector[1] * 2)\n\nplt.quiver(0, 0, vector[0], vector[1], angles='xy', scale_units='xy', scale=1, color='blue', label='Original Vector')\nplt.quiver(0, 0, multiplied_vector[0], multiplied_vector[1], angles='xy', scale_units='xy', scale=1, color='red', label='Multiplied Vector')\n\nplt.xlim(-1, 5)\nplt.ylim(-1, 5)\nplt.xlabel('X')\nplt.ylabel('Y')\nplt.grid()\nplt.legend()\nplt.show()\n\n\n\n\n\n\n\n\nAbbildung 4: Graphische Multiplikation mit einem Skalar\n\n\n\n\n\n\n\n\n\\((-5) * \\begin{bmatrix}-2\\\\1\\\\-1\\end{bmatrix} = \\begin{bmatrix}10\\\\-5\\\\5\\end{bmatrix}\\)\n\\(7 * \\begin{bmatrix}1\\\\2\\\\5\\end{bmatrix} = \\begin{bmatrix}7\\\\14\\\\35\\end{bmatrix}\\)\n\\(\\frac{1}{2} * \\begin{bmatrix}4\\\\6\\\\8\\end{bmatrix} = \\begin{bmatrix}2\\\\3\\\\4\\end{bmatrix}\\)\n\n\n\n\n\n\nMit Vektoren können Geraden ähnlich wie mit der “normalen” Formel \\(t(x) = mx+n\\) berechnet werden.  Nur ist die Formel hier \\(x = \\vec{p} + r * \\vec{u}\\)\n\n\\(\\vec{p}\\): Stützvektor\n\nBeginnt im Ursprung und berührt die Gerade in einem Punkt\n\n\\(\\vec{u}\\): Richtungsvektor\n\nliegt auf der Gerade, Richtung ist egal\n\n\n\nHier ein Beispiel für einen Vektor der eine Gerade bestimmt: \\(g: \\vec{x} =  \\begin{bmatrix} 1 \\\\ -3 \\end{bmatrix} + t * \\begin{bmatrix}2 \\\\ 2\\end{bmatrix}\\)\n\n\n\nFormel: \\(g: \\vec{x} = \\begin{bmatrix}1\\\\1\\\\2\\end{bmatrix} + t * \\begin{bmatrix}0\\\\-2\\\\7\\end{bmatrix}\\)\n\\(P_1\\): \\(\\begin{bmatrix}1\\\\1\\\\2\\end{bmatrix} + 1 * \\begin{bmatrix}0\\\\-2\\\\7\\end{bmatrix} = \\begin{bmatrix}1\\\\-1\\\\9\\end{bmatrix} = P_1(1|-1)\\)\n\\(P_2\\): \\(\\begin{bmatrix}1\\\\1\\\\2\\end{bmatrix} + 2 * \\begin{bmatrix}0\\\\-2\\\\7\\end{bmatrix} = \\begin{bmatrix}1\\\\-3\\\\16\\end{bmatrix} = P_2(1|-3)\\)\n\nJede andere Zahl als hier als Skalar für \\(t\\) einsetzbar, und würde die gerade \\(g\\) berühren, und somit kann theoretisch jeder Punkt ermittelt werden.\n\n\n\n\n\nparallel\n\nsie haben keinen Schnittpunkt\nRichtungsvektoren sind parallel zueinander\n\nidentisch\nwindschief\n\nhaben keinen Schnittpunkt\nweder parallel noch identisch\n\nschneidend\n\nbesitzen genau einen Schnittpunkt\n\n\n\n\n\n\n\n\n\nDie Integralrechnung ist ein Zweig der Infinitesimalrechnung, der zusammen mit der Differentialrechnung die mathematische Analysis bildet. Sie ist aus der Aufgabe entstanden, Flächeninhalte oder Volumina zu berechnen, die durch gekrümmte Linien oder Flächen begrenzt sind.\nUnter dem Oberbegriff Integral werden das unbestimmte und das bestimmte Integral einer Funktion zusammengefasst. Hier sind die wichtigsten Aspekte:\n\nUnbestimmtes Integral: Eine Funktion F ist eine Stammfunktion der Funktion f, wenn ihre Ableitung F’ genau die ursprüngliche Funktion f ist. Das unbestimmte Integral wird verwendet, um Stammfunktionen zu finden.\nBestimmtes Integral: Das bestimmte Integral einer Funktion f ergibt eine Zahl. Es gibt den Inhalt der Fläche an, die im Intervall zwischen dem Graphen von f und der x-Achse liegt. Die Integrationsgrenzen a und b definieren den Bereich.\n\n\n\n\nEin Beispiel eines Integrals ist \\(\\int_{-1}^{1} (2x + 1)dx\\), welcher folgendes aussagt: Der Bereich von dem wir den Flächeninhalt wollen ist -1 bis 1 und die Formel der Funktion ist \\(f(x)=2x+1\\).\n\n\n\n\\[\n\\int_{a}^{b}  f(x)t=F(b)-F(a)\n\\]\n\n\\(F(x)\\) ist die Stammfunktion der Funktion \\(f(x)\\).\n\\(F(x)\\) ist somit \\(f(x)\\) hochgeleitet (heißt umgekehrtes Ableiten)\n\n\n\n\nDie Formel finden:\\(f(x)\\) finden (heißt die Zahlen vor dx lesen):\\(F(x)\\) finden (hochleiten):\\(a\\) und \\(b\\) einsetzen und ausrechnen:\n\n\n\\(\\int_0^4 x^2 dx\\)\n\n\n\\(f(x)=x^2\\)\n\n\n\\(F(x) = \\frac{1}{3} * x^3\\)\n\n\n\\(F(4) - F(0) = 21,\\overline{3} + 0 = 21,\\overline{3}\\)\n\noder das Ergebnis in einer anderen schreibweise: \\(f(x) = x^2; [0;4]; F(x)=\\frac{1}{3}x^3\\)"
-  },
-  {
-    "objectID": "mathe.html#vektoren",
-    "href": "mathe.html#vektoren",
-    "title": "Mathe Klausur zum 28.02.2024",
-    "section": "",
-    "text": "Ein Vektor wie \\(\\vec{t}=\\begin{bmatrix}2\\\\4\\\\6\\end{bmatrix}\\) sieht wiefolgt aus:\n\n\nCode\nimport matplotlib.pyplot as plt\nfrom mpl_toolkits.mplot3d import Axes3D\nimport numpy as np\n\nfig = plt.figure()\nax = fig.add_subplot(111, projection='3d')\n\nt = np.array([2, 4, 6])\n\nax.quiver(0, 0, 0, t[0], t[1], t[2])\n\nax.set_xlim([0, 10])\nax.set_ylim([0, 10])\nax.set_zlim([0, 10])\n\nax.set_xlabel('X')\nax.set_ylabel('Y')\nax.set_zlabel('Z')\n\nplt.show()\n\n\n\n\n\n\n\n\nAbbildung 1: Ein Beispiel von einem 3D-Vektor\n\n\n\n\n\noder in 2D (heißt der Vektor ist jetzt \\(\\vec{t} = \\begin{bmatrix}2\\\\4\\end{bmatrix}\\)):\n\n\nCode\nimport matplotlib.pyplot as plt\n\nvector = (2, 4)\n\nplt.quiver(0, 0, vector[0], vector[1], angles='xy', scale_units='xy', scale=1)\nplt.xlim(-1, 3)\nplt.ylim(-1, 5)\nplt.xlabel('X')\nplt.ylabel('Y')\nplt.grid()\nplt.show()\n\n\n\n\n\n\n\n\nAbbildung 2: Ein Beispiel von einem 2D-Vektor\n\n\n\n\n\nund hat sowohl eine Richtung als auch einen Betrag. Sie können außerdem theoretisch unendlich viele Dimensionen haben.\n\n\n\nSie haben sowohl eine Richtung als auch einen Betrag, welcher wie folgt errechnet wird: \\[\\vec{v} = \\sqrt{x^2 + y^2 + z^2}\\] Was in unserem Fall folgendes heißt: \\(\\sqrt{2^2+4^2+6^2}=7,48\\)\n\n\nVektoren zu addieren ist denkbar einfach, wie hier: \\[\\begin{bmatrix}4\\\\-1\\\\2\\end{bmatrix}+\\begin{bmatrix}3\\\\2\\\\-4\\end{bmatrix}=\\begin{bmatrix}7\\\\1\\\\-2\\end{bmatrix}\\] Wie vielleicht zu erkennen ist, werden jediglich die Werte der selbigen Dimensionen addiert, was heißt: \\[\\begin{bmatrix}x_1\\\\y_1\\\\z_1\\end{bmatrix}+\\begin{bmatrix}x_2\\\\y_2\\\\z_3\\end{bmatrix}=\\begin{bmatrix}x_3\\\\y_3\\\\z_3\\end{bmatrix}\\]\n\n\n\n\nCode\nimport matplotlib.pyplot as plt\n\nvector1 = (4, -1)\nvector2 = (3, 2)\nadded_vector = (vector1[0] + vector2[0], vector1[1] + vector2[1])\n\nplt.quiver(0, 0, vector1[0], vector1[1], angles='xy', scale_units='xy', scale=1, color='blue', label='Vector 1')\nplt.quiver(0, 0, vector2[0], vector2[1], angles='xy', scale_units='xy', scale=1, color='red', label='Vector 2')\nplt.quiver(0, 0, added_vector[0], added_vector[1], angles='xy', scale_units='xy', scale=1, color='green', label='Added Vector')\n\n# Pointing from vec1 to added_vector\nplt.quiver(vector1[0], vector1[1], added_vector[0] - vector1[0], added_vector[1] - vector1[1], angles='xy', scale_units='xy', scale=1, color='black', linestyle='dashed')\n\n# Pointing from vec2 to added_vector\nplt.quiver(vector2[0], vector2[1], added_vector[0] - vector2[0], added_vector[1] - vector2[1], angles='xy', scale_units='xy', scale=1, color='black', linestyle='dashed')\nplt.scatter(0, 0, color='black', label='Origin')\nplt.xlim(-1, 8)\nplt.ylim(-2, 5)\nplt.xlabel('X')\nplt.ylabel('Y')\nplt.grid()\nplt.legend()\nplt.show()\n\n\n\n\n\n\n\n\nAbbildung 3: Wie Vektoren Graphisch addiert werden können\n\n\n\n\n\n\n\n\n\n\nSubtraktion von Vektoren ist praktisch identisch zur Addition\n\n\n\nUm diese Art der Multiplikation zu verstehen muss der Begriff Skalar verstanden werden, der einfach nur heißt: Zahl welche mit Vektoren verrechnet wird und kein Vektor ist\nAls Beispiel nehme ich jetzt mal \\(\\vec{a}=\\begin{bmatrix}2\\\\2\\end{bmatrix}\\) und \\(\\begin{bmatrix}2\\\\2\\end{bmatrix}*2=\\begin{bmatrix}4\\\\4\\end{bmatrix}\\)\nAlso: \\[\\vec{v} = \\begin{bmatrix} x_1\\\\y_1 \\end{bmatrix}\\] \\[\\begin{bmatrix}x_1\\\\y_1\\end{bmatrix} * t = \\begin{bmatrix}x_1*t\\\\y_1*t\\end{bmatrix} = \\begin{bmatrix}x_2\\\\y_2\\end{bmatrix}\\]\n\n\n\n\nCode\nimport matplotlib.pyplot as plt\n\nvector = (2, 2)\nmultiplied_vector = (vector[0] * 2, vector[1] * 2)\n\nplt.quiver(0, 0, vector[0], vector[1], angles='xy', scale_units='xy', scale=1, color='blue', label='Original Vector')\nplt.quiver(0, 0, multiplied_vector[0], multiplied_vector[1], angles='xy', scale_units='xy', scale=1, color='red', label='Multiplied Vector')\n\nplt.xlim(-1, 5)\nplt.ylim(-1, 5)\nplt.xlabel('X')\nplt.ylabel('Y')\nplt.grid()\nplt.legend()\nplt.show()\n\n\n\n\n\n\n\n\nAbbildung 4: Graphische Multiplikation mit einem Skalar\n\n\n\n\n\n\n\n\n\\((-5) * \\begin{bmatrix}-2\\\\1\\\\-1\\end{bmatrix} = \\begin{bmatrix}10\\\\-5\\\\5\\end{bmatrix}\\)\n\\(7 * \\begin{bmatrix}1\\\\2\\\\5\\end{bmatrix} = \\begin{bmatrix}7\\\\14\\\\35\\end{bmatrix}\\)\n\\(\\frac{1}{2} * \\begin{bmatrix}4\\\\6\\\\8\\end{bmatrix} = \\begin{bmatrix}2\\\\3\\\\4\\end{bmatrix}\\)\n\n\n\n\n\n\nMit Vektoren können Geraden ähnlich wie mit der “normalen” Formel \\(t(x) = mx+n\\) berechnet werden.  Nur ist die Formel hier \\(x = \\vec{p} + r * \\vec{u}\\)\n\n\\(\\vec{p}\\): Stützvektor\n\nBeginnt im Ursprung und berührt die Gerade in einem Punkt\n\n\\(\\vec{u}\\): Richtungsvektor\n\nliegt auf der Gerade, Richtung ist egal\n\n\n\nHier ein Beispiel für einen Vektor der eine Gerade bestimmt: \\(g: \\vec{x} =  \\begin{bmatrix} 1 \\\\ -3 \\end{bmatrix} + t * \\begin{bmatrix}2 \\\\ 2\\end{bmatrix}\\)\n\n\n\nFormel: \\(g: \\vec{x} = \\begin{bmatrix}1\\\\1\\\\2\\end{bmatrix} + t * \\begin{bmatrix}0\\\\-2\\\\7\\end{bmatrix}\\)\n\\(P_1\\): \\(\\begin{bmatrix}1\\\\1\\\\2\\end{bmatrix} + 1 * \\begin{bmatrix}0\\\\-2\\\\7\\end{bmatrix} = \\begin{bmatrix}1\\\\-1\\\\9\\end{bmatrix} = P_1(1|-1)\\)\n\\(P_2\\): \\(\\begin{bmatrix}1\\\\1\\\\2\\end{bmatrix} + 2 * \\begin{bmatrix}0\\\\-2\\\\7\\end{bmatrix} = \\begin{bmatrix}1\\\\-3\\\\16\\end{bmatrix} = P_2(1|-3)\\)\n\nJede andere Zahl als hier als Skalar für \\(t\\) einsetzbar, und würde die gerade \\(g\\) berühren, und somit kann theoretisch jeder Punkt ermittelt werden.\n\n\n\n\n\nparallel\n\nsie haben keinen Schnittpunkt\nRichtungsvektoren sind parallel zueinander\n\nidentisch\nwindschief\n\nhaben keinen Schnittpunkt\nweder parallel noch identisch\n\nschneidend\n\nbesitzen genau einen Schnittpunkt"
-  },
-  {
-    "objectID": "mathe.html#integrale",
-    "href": "mathe.html#integrale",
-    "title": "Mathe Klausur zum 28.02.2024",
-    "section": "",
-    "text": "Die Integralrechnung ist ein Zweig der Infinitesimalrechnung, der zusammen mit der Differentialrechnung die mathematische Analysis bildet. Sie ist aus der Aufgabe entstanden, Flächeninhalte oder Volumina zu berechnen, die durch gekrümmte Linien oder Flächen begrenzt sind.\nUnter dem Oberbegriff Integral werden das unbestimmte und das bestimmte Integral einer Funktion zusammengefasst. Hier sind die wichtigsten Aspekte:\n\nUnbestimmtes Integral: Eine Funktion F ist eine Stammfunktion der Funktion f, wenn ihre Ableitung F’ genau die ursprüngliche Funktion f ist. Das unbestimmte Integral wird verwendet, um Stammfunktionen zu finden.\nBestimmtes Integral: Das bestimmte Integral einer Funktion f ergibt eine Zahl. Es gibt den Inhalt der Fläche an, die im Intervall zwischen dem Graphen von f und der x-Achse liegt. Die Integrationsgrenzen a und b definieren den Bereich.\n\n\n\n\nEin Beispiel eines Integrals ist \\(\\int_{-1}^{1} (2x + 1)dx\\), welcher folgendes aussagt: Der Bereich von dem wir den Flächeninhalt wollen ist -1 bis 1 und die Formel der Funktion ist \\(f(x)=2x+1\\).\n\n\n\n\\[\n\\int_{a}^{b}  f(x)t=F(b)-F(a)\n\\]\n\n\\(F(x)\\) ist die Stammfunktion der Funktion \\(f(x)\\).\n\\(F(x)\\) ist somit \\(f(x)\\) hochgeleitet (heißt umgekehrtes Ableiten)\n\n\n\n\nDie Formel finden:\\(f(x)\\) finden (heißt die Zahlen vor dx lesen):\\(F(x)\\) finden (hochleiten):\\(a\\) und \\(b\\) einsetzen und ausrechnen:\n\n\n\\(\\int_0^4 x^2 dx\\)\n\n\n\\(f(x)=x^2\\)\n\n\n\\(F(x) = \\frac{1}{3} * x^3\\)\n\n\n\\(F(4) - F(0) = 21,\\overline{3} + 0 = 21,\\overline{3}\\)\n\noder das Ergebnis in einer anderen schreibweise: \\(f(x) = x^2; [0;4]; F(x)=\\frac{1}{3}x^3\\)"
+    "text": "In summary, this book has no content whatsoever.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Summary</span>"
+    ]
   }
 ]
