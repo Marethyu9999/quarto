@@ -10,3 +10,4 @@ test.qmd
 *.log
 *.aux
 _book
+_freeze
