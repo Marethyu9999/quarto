@@ -10,3 +10,4 @@
     1.  mit den Extensions:\
         i) [Excalidraw](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor)\
         ii) [Quarto](https://marketplace.visualstudio.com/items?itemName=quarto.quarto)
+4. [MyScript Math Demo](https://webdemo.myscript.com/views/math/index.html) da ich viel zu faul bin um [Latex](https://www.latex-project.org/) zu lernen
