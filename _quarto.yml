@@ -29,6 +29,9 @@ book:
     - part: "Philosophie"
       chapters: 
         - philosophie/kultur-essay.qmd
+    - part: "Geschichte"
+      chapters: 
+        - geschichte/juli-krise.qmd
     - summary.qmd
     #- references.qmd
 
