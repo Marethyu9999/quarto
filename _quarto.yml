@@ -43,3 +43,6 @@ format:
     lang: de
   #pdf:
   #  documentclass: scrreprt
+
+execute: 
+  freeze: auto
