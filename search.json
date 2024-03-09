@@ -4,9 +4,19 @@
     "href": "index.html",
     "title": "Schule",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "text": "Vorwort",
     "crumbs": [
-      "Preface"
+      "Vorwort"
+    ]
+  },
+  {
+    "objectID": "index.html#verwendete-software",
+    "href": "index.html#verwendete-software",
+    "title": "Schule",
+    "section": "Verwendete Software",
+    "text": "Verwendete Software\n\nQuarto\nExcalidraw\n\nwie beispielsweise in der Abbildung Beispiele für abiotische und biotische Faktoren eines Ökosystems oder in der Abbildung Optimumdiagramm mit abiotischen Faktoren\njedes hiermit erstelltes Bild müsste anclickbar sein, und damit einfach annotierbar\n\nVisual Studio Code\n\nmit den Extensions:\n\n\nExcalidraw\n\nQuarto\n\n\nMyScript Math Demo da ich viel zu faul bin um Latex zu lernen",
+    "crumbs": [
+      "Vorwort"
     ]
   },
   {
@@ -25,7 +35,7 @@
     "href": "biologie/ökosysteme.html#einleitung",
     "title": "2  Ökosysteme",
     "section": "",
-    "text": "2.1.1 Biotische und abiotische Faktoren im Ökosystem\n\n\n\n\n\n\nAbbildung 2.1: Beispiele für abiotische und biotische Faktoren eines Ökosystems\n\n\n\n\n\n2.1.2 Optimumdiagramm von abiotischen Faktoren\n\n\n\n\n\n\nAbbildung 2.2",
+    "text": "2.1.1 Biotische und abiotische Faktoren im Ökosystem\n\n\n\n\n\n\nAbbildung 2.1: Beispiele für abiotische und biotische Faktoren eines Ökosystems\n\n\n\n\n\n2.1.2 Optimumdiagramm von abiotischen Faktoren\n\n\n\n\n\n\nAbbildung 2.2: Optimumdiagramm mit abiotischen Faktoren",
     "crumbs": [
       "Biologie",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Ökosysteme</span>"

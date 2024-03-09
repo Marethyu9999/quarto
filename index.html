@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="de" xml:lang="de"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.551">
+<meta name="generator" content="quarto-1.4.549">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -81,7 +81,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Seitenleiste umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Preface</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Vorwort</a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Seitenleiste umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -112,7 +112,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./index.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Preface</span></a>
+ <span class="menu-text">Vorwort</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -205,7 +205,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Inhaltsverzeichnis</h2>
    
   <ul>
-  <li><a href="#preface" id="toc-preface" class="nav-link active" data-scroll-target="#preface">Preface</a></li>
+  <li><a href="#vorwort" id="toc-vorwort" class="nav-link active" data-scroll-target="#vorwort">Vorwort</a>
+  <ul class="collapse">
+  <li><a href="#verwendete-software" id="toc-verwendete-software" class="nav-link" data-scroll-target="#verwendete-software">Verwendete Software</a></li>
+  </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/Marethyu9999/quarto/issues/new" class="toc-action"><i class="bi bi-github"></i>Problem melden</a></li><li><a href="https://github.com/Marethyu9999/quarto/edit/main/index.qmd" class="toc-action"><i class="bi empty"></i>Seite editieren</a></li><li><a href="https://github.com/Marethyu9999/quarto/blob/main/index.qmd" class="toc-action"><i class="bi empty"></i>Quellcode anzeigen</a></li></ul></div></nav>
     </div>
@@ -237,12 +240,32 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="preface" class="level1 unnumbered">
-<h1 class="unnumbered">Preface</h1>
-<p>This is a Quarto book.</p>
-<p>To learn more about Quarto books visit <a href="https://quarto.org/docs/books" class="uri">https://quarto.org/docs/books</a>.</p>
+<section id="vorwort" class="level1 unnumbered">
+<h1 class="unnumbered">Vorwort</h1>
+<section id="verwendete-software" class="level2">
+<h2 class="anchored" data-anchor-id="verwendete-software">Verwendete Software</h2>
+<ol type="1">
+<li><a href="quarto.org">Quarto</a></li>
+<li><a href="excalidraw.com">Excalidraw</a>
+<ol type="i">
+<li>wie beispielsweise in der <a href="biologie/ökosysteme.html#fig-bio_abiotische-und-biotische-merkmale" class="quarto-xref">Abbildung&nbsp;<span>Beispiele für abiotische und biotische Faktoren eines Ökosystems</span></a> oder in der <a href="biologie/ökosysteme.html#fig-bio_abiotische-Optimumsdiagramm" class="quarto-xref">Abbildung&nbsp;<span>Optimumdiagramm mit abiotischen Faktoren</span></a></li>
+<li>jedes hiermit erstelltes Bild müsste anclickbar sein, und damit einfach annotierbar</li>
+</ol></li>
+<li><a href="https://code.visualstudio.com/">Visual Studio Code</a>
+<ol type="1">
+<li>mit den Extensions:<br>
+
+<ol type="i">
+<li><a href="https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor">Excalidraw</a><br>
+</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=quarto.quarto">Quarto</a></li>
+</ol></li>
+</ol></li>
+<li><a href="https://webdemo.myscript.com/views/math/index.html">MyScript Math Demo</a> da ich viel zu faul bin um <a href="https://www.latex-project.org/">Latex</a> zu lernen</li>
+</ol>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -325,24 +348,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-    var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
-    var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
-    }
-    // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
-    for (var i=0; i<links.length; i++) {
-      const link = links[i];
-      if (!isInternal(link.href)) {
-        // undo the damage that might have been done by quarto-nav.js in the case of
-        // links that we want to consider external
-        if (link.dataset.originalHref !== undefined) {
-          link.href = link.dataset.originalHref;
-        }
-      }
-    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -377,11 +382,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      if (note) {
-        return note.innerHTML;
-      } else {
-        return "";
-      }
+      return note.innerHTML;
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');
@@ -659,7 +660,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   <div class="nav-page nav-page-previous">
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./intro.html" class="pagination-link" aria-label="Einleitung">
+      <a href="./intro.html" class="pagination-link" aria-label="<span class='chapter-number'>1</span>&nbsp; <span class='chapter-title'>Einleitung</span>">
         <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Einleitung</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="de" xml:lang="de"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.551">
+<meta name="generator" content="quarto-1.4.549">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -175,7 +175,7 @@ window.Quarto = {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Preface</span></a>
+ <span class="menu-text">Vorwort</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -481,7 +481,7 @@ Abbildung&nbsp;5.3: Wie Vektoren Graphisch addiert werden können
 <div id="fig-vec_multiplication" class="quarto-figure quarto-figure-center quarto-float anchored">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-vec_multiplication-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<img src="vektor-integrale_files/figure-html/fig-vec_multiplication-output-1.png" width="592" height="434" class="figure-img">
+<img src="vektor-integrale_files/figure-html/fig-vec_multiplication-output-1.png" width="591" height="434" class="figure-img">
 </div>
 <figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-vec_multiplication-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Abbildung&nbsp;5.4: Graphische Multiplikation mit einem Skalar
@@ -513,7 +513,7 @@ Abbildung&nbsp;5.4: Graphische Multiplikation mit einem Skalar
 <li>liegt auf der Gerade, Richtung ist egal</li>
 </ul></li>
 </ul>
-<p><img src="../assets/gerade_in_vektoren.jpg" class="img-fluid"></p>
+<p><img src="..\assets/gerade_in_vektoren.jpg" class="img-fluid"></p>
 <p>Hier ein Beispiel für einen Vektor der eine Gerade bestimmt: <span class="math inline">\(g: \vec{x} =  \begin{bmatrix} 1 \\ -3 \end{bmatrix} + t * \begin{bmatrix}2 \\ 2\end{bmatrix}\)</span></p>
 <section id="beispiele-von-geraden-als-vektoren" class="level4" data-number="5.1.5.1">
 <h4 data-number="5.1.5.1" class="anchored" data-anchor-id="beispiele-von-geraden-als-vektoren"><span class="header-section-number">5.1.5.1</span> Beispiele von Geraden als Vektoren</h4>
@@ -544,7 +544,7 @@ Abbildung&nbsp;5.4: Graphische Multiplikation mit einem Skalar
 <li>besitzen genau einen Schnittpunkt</li>
 </ul></li>
 </ol>
-<p><img src="../assets/lagen-von-geraden.jpeg" class="img-fluid"></p>
+<p><img src="..\assets/lagen-von-geraden.jpeg" class="img-fluid"></p>
 </section>
 </section>
 <section id="integrale" class="level2" data-number="5.2">
@@ -680,24 +680,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-    var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
-    var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
-    }
-    // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
-    for (var i=0; i<links.length; i++) {
-      const link = links[i];
-      if (!isInternal(link.href)) {
-        // undo the damage that might have been done by quarto-nav.js in the case of
-        // links that we want to consider external
-        if (link.dataset.originalHref !== undefined) {
-          link.href = link.dataset.originalHref;
-        }
-      }
-    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -732,11 +714,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      if (note) {
-        return note.innerHTML;
-      } else {
-        return "";
-      }
+      return note.innerHTML;
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');
@@ -1012,12 +990,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../deutsch/spracherwerbstheorien.html" class="pagination-link" aria-label="Spracherwerbstheorien">
+      <a href="../deutsch/spracherwerbstheorien.html" class="pagination-link  aria-label=" &lt;span="">
         <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Spracherwerbstheorien</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../philosophie/kultur-essay.html" class="pagination-link" aria-label="Essay über Kultur">
+      <a href="../philosophie/kultur-essay.html" class="pagination-link" aria-label="<span class='chapter-number'>5</span>&nbsp; <span class='chapter-title'>Essay über Kultur</span>">
         <span class="nav-page-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Essay über Kultur</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
