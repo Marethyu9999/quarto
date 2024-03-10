@@ -32,8 +32,8 @@ book:
     - part: "Geschichte"
       chapters: 
         - geschichte/juli-krise.qmd
-    - summary.qmd
-    #- references.qmd
+  appendices:
+    - tesstrain/tesstrain.qmd
 
 bibliography: references.bib
 

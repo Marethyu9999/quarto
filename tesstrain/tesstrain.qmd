@@ -1,0 +1,105 @@
+# Ein OCR Modell auf meine Schrift trainieren
+
+## Englisches Modell
+
+Für das Englische Modell habe ich bisher eine meiner Einglisch Klausuren in etwa *220* Teile unterteilt, welche vorerst verwendet werden um das Modell zu trainieren.
+
+Um es zu testen, kann `tesseract /mnt/d/Programming/tesstrain/data/eng_Erik-ground-truth/eva1_slice1.tif stdout --tessdata-dir /mnt/d/Programming/tesstrain/data -l eng_Erik --psm 7` ausgeführt werden.
+
+### Timeline (in 10.000er Schritten)
+
+![](assets/eva1_slice1.png){width="1266"}
+
+Satz: ***The term postcolonialism means firstly the historic time and secondly***
+
+1.   whes **term** posterlanialine man foriotly **the** intinnc bimm oad ay eeentle
+2.  Whwu tars postaolonallinm **means** fiestly **the** histinc thme **and** secorphld
+3.  Tiy tears posifaolioicalimm meams fiexstl **the** titisic tme **and** segorall
+4.  Thr **term** postficaolonialism meams fisitly **the** histac **time** **and** secoroll.
+5.  Tie **term** postoolonialism yeans fixistly **the** istiic **time** **and** sucarile,
+6.  TBVhe **term** postoclnalisms **means** fisstly **the** histisic thrme **and** segorsle
+7.  **The** ters postcoloniabiss wmeass frstty **the** hetoric tirse **and** secenedh
+8.  **The** temm posicolonialiasm **means** fistlty **the** tistomic tirme **and** seconsle
+9.  **The** tem postoeclonialiasm **means** fiat **the** iistoric **time** **and** seconoll
+10. **The** **term** **postcolonialism** **means** frsstl **the** histosic **time** **and** sucoreole
+11. **The** tems postoclonialism **means** fixstly **the** histosic thime **and** secorole
+12. Bhe tm postaclonialisms **means** fisstt **the** tistom **time** **and** sweormls,
+13. **The** therm postaclonialisrm **means** firty **the** thistoric thrme **and** secrowolld
+14. **The** **term** postcolonialisms **means** fiisty ithe **historic** thame **and** secenol
+15. Tdhe nsm postcolonialisms **means** firsttky **the** histric ptire **and** secoenoll
+16. Te temm **postcolonialism** **means** **firstly** **the** tistosc **time** **and** secoreldl
+17. **The** tamm postaclonialisms **means** firtty **the** histosic tim **and** secoroll
+18. **The** tem postcclonialisms yeans firstty **the** **historic** thre **and** seconrold
+19. **The** **term** pGostooclonialisms **means** fis iy **the** ristoric tire **and** ecrald
+20. **The term** postoclonialism meass firsly **the** **historic** the **and** seceraled
+21. **The** tesm postoclonialismm **means** firrtly **the** tistoric thime **and** seconcle
+22. *Im Training*
+
+Und hier das *normale* Tesseract eng Ergebniss: `Che Jom pethecheiwbly) on Aas, poe Nefevi. Jin, cath vec.`
+
+## Nützliche Python scripts
+
+### Ein Datei Umbenenner
+
+``` py
+import os
+import sys
+
+if __name__ == '__main__':
+    if len(sys.argv) not in [4, 3]:
+        print('Usage: python file-renamer.py <search_string> <replace_string> [<directory>]')
+        sys.exit(1)
+
+    search_string = sys.argv[1]
+    replace_string = sys.argv[2]
+    directory = sys.argv[3] if len(sys.argv) == 4 else os.getcwd()
+
+    count = 0
+    for filename in os.listdir(directory):
+        file_path = os.path.join(directory, filename)
+        if os.path.isfile(file_path):
+            new_filename = filename.replace(search_string, replace_string)
+            new_file_path = os.path.join(directory, new_filename)
+            if filename != new_filename:
+                os.rename(file_path, new_file_path)
+                count += 1
+
+    print('Renamed {} files.'.format(count))
+```
+
+### Dateien ohne File-Extension mit `.gt.txt` versehen
+
+``` {.py .py}
+import os
+import sys
+
+def rename_files_in_directory(directory):
+    """
+    Renames files in a given directory by appending '.gt.txt' to their names.
+
+    Args:
+        directory (str): The path to the directory containing the files.
+
+    Returns:
+        None
+    """
+    current_directory = directory
+    file_list = os.listdir(current_directory)
+
+    for file_name in file_list:
+        if not 'gt' in file_name and (file_name.endswith('.txt') or '.' not in file_name):
+            if '.' not in file_name:
+                new_name = file_name + '.gt.txt'
+            else:
+                new_name = file_name.replace('.txt', '.gt.txt')
+            os.rename(os.path.join(current_directory, file_name),
+                      os.path.join(current_directory, new_name))
+
+
+if __name__ == "__main__":
+    if len(sys.argv) > 1:
+        directory = sys.argv[1]
+        rename_files_in_directory(directory)
+    else:
+        rename_files_in_directory(os.getcwd())
+```
