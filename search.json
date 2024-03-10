@@ -141,13 +141,36 @@
     ]
   },
   {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "7  Summary",
+    "objectID": "tesstrain/tesstrain.html",
+    "href": "tesstrain/tesstrain.html",
+    "title": "Anhang A — Ein OCR Modell auf meine Schrift trainieren",
     "section": "",
-    "text": "In summary, this book has no content whatsoever.",
+    "text": "A.1 Englisches Modell\nFür das Englische Modell habe ich bisher eine meiner Einglisch Klausuren in etwa 220 Teile unterteilt, welche vorerst verwendet werden um das Modell zu trainieren.\nUm es zu testen, kann tesseract /mnt/d/Programming/tesstrain/data/eng_Erik-ground-truth/eva1_slice1.tif stdout --tessdata-dir /mnt/d/Programming/tesstrain/data -l eng_Erik --psm 7 ausgeführt werden.",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Summary</span>"
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Ein OCR Modell auf meine Schrift trainieren</span>"
+    ]
+  },
+  {
+    "objectID": "tesstrain/tesstrain.html#englisches-modell",
+    "href": "tesstrain/tesstrain.html#englisches-modell",
+    "title": "Anhang A — Ein OCR Modell auf meine Schrift trainieren",
+    "section": "",
+    "text": "A.1.1 Timeline (in 10.000er Schritten)\n\nSatz: The term postcolonialism means firstly the historic time and secondly\n\nwhes term posterlanialine man foriotly the intinnc bimm oad ay eeentle\nWhwu tars postaolonallinm means fiestly the histinc thme and secorphld\nTiy tears posifaolioicalimm meams fiexstl the titisic tme and segorall\nThr term postficaolonialism meams fisitly the histac time and secoroll.\nTie term postoolonialism yeans fixistly the istiic time and sucarile,\nTBVhe term postoclnalisms means fisstly the histisic thrme and segorsle\nThe ters postcoloniabiss wmeass frstty the hetoric tirse and secenedh\nThe temm posicolonialiasm means fistlty the tistomic tirme and seconsle\nThe tem postoeclonialiasm means fiat the iistoric time and seconoll\nThe term postcolonialism means frsstl the histosic time and sucoreole\nThe tems postoclonialism means fixstly the histosic thime and secorole\nBhe tm postaclonialisms means fisstt the tistom time and sweormls,\nThe therm postaclonialisrm means firty the thistoric thrme and secrowolld\nThe term postcolonialisms means fiisty ithe historic thame and secenol\nTdhe nsm postcolonialisms means firsttky the histric ptire and secoenoll\nTe temm postcolonialism means firstly the tistosc time and secoreldl\nThe tamm postaclonialisms means firtty the histosic tim and secoroll\nThe tem postcclonialisms yeans firstty the historic thre and seconrold\nThe term pGostooclonialisms means fis iy the ristoric tire and ecrald\nThe term postoclonialism meass firsly the historic the and seceraled\nThe tesm postoclonialismm means firrtly the tistoric thime and seconcle\nThe temm postaclonialism means fisrttly the tistoric time and seconcle\n\nUnd hier das normale Tesseract eng Ergebniss: Che Jom pethecheiwbly) on Aas, poe Nefevi. Jin, cath vec.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Ein OCR Modell auf meine Schrift trainieren</span>"
+    ]
+  },
+  {
+    "objectID": "tesstrain/tesstrain.html#nützliche-python-scripts",
+    "href": "tesstrain/tesstrain.html#nützliche-python-scripts",
+    "title": "Anhang A — Ein OCR Modell auf meine Schrift trainieren",
+    "section": "A.2 Nützliche Python scripts",
+    "text": "A.2 Nützliche Python scripts\n\nA.2.1 Ein Datei Umbenenner\nimport os\nimport sys\n\nif __name__ == '__main__':\n    if len(sys.argv) not in [4, 3]:\n        print('Usage: python file-renamer.py &lt;search_string&gt; &lt;replace_string&gt; [&lt;directory&gt;]')\n        sys.exit(1)\n\n    search_string = sys.argv[1]\n    replace_string = sys.argv[2]\n    directory = sys.argv[3] if len(sys.argv) == 4 else os.getcwd()\n\n    count = 0\n    for filename in os.listdir(directory):\n        file_path = os.path.join(directory, filename)\n        if os.path.isfile(file_path):\n            new_filename = filename.replace(search_string, replace_string)\n            new_file_path = os.path.join(directory, new_filename)\n            if filename != new_filename:\n                os.rename(file_path, new_file_path)\n                count += 1\n\n    print('Renamed {} files.'.format(count))\n\n\nA.2.2 Dateien ohne File-Extension mit .gt.txt versehen\nimport os\nimport sys\n\ndef rename_files_in_directory(directory):\n    \"\"\"\n    Renames files in a given directory by appending '.gt.txt' to their names.\n\n    Args:\n        directory (str): The path to the directory containing the files.\n\n    Returns:\n        None\n    \"\"\"\n    current_directory = directory\n    file_list = os.listdir(current_directory)\n\n    for file_name in file_list:\n        if not 'gt' in file_name and (file_name.endswith('.txt') or '.' not in file_name):\n            if '.' not in file_name:\n                new_name = file_name + '.gt.txt'\n            else:\n                new_name = file_name.replace('.txt', '.gt.txt')\n            os.rename(os.path.join(current_directory, file_name),\n                      os.path.join(current_directory, new_name))\n\n\nif __name__ == \"__main__\":\n    if len(sys.argv) &gt; 1:\n        directory = sys.argv[1]\n        rename_files_in_directory(directory)\n    else:\n        rename_files_in_directory(os.getcwd())",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Ein OCR Modell auf meine Schrift trainieren</span>"
     ]
   }
 ]
