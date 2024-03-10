@@ -12,7 +12,7 @@ Um es zu testen, kann `tesseract /mnt/d/Programming/tesstrain/data/eng_Erik-grou
 
 Satz: ***The term postcolonialism means firstly the historic time and secondly***
 
-1.   whes **term** posterlanialine man foriotly **the** intinnc bimm oad ay eeentle
+1.  whes **term** posterlanialine man foriotly **the** intinnc bimm oad ay eeentle
 2.  Whwu tars postaolonallinm **means** fiestly **the** histinc thme **and** secorphld
 3.  Tiy tears posifaolioicalimm meams fiexstl **the** titisic tme **and** segorall
 4.  Thr **term** postficaolonialism meams fisitly **the** histac **time** **and** secoroll.
@@ -33,7 +33,7 @@ Satz: ***The term postcolonialism means firstly the historic time and secondly**
 19. **The** **term** pGostooclonialisms **means** fis iy **the** ristoric tire **and** ecrald
 20. **The term** postoclonialism meass firsly **the** **historic** the **and** seceraled
 21. **The** tesm postoclonialismm **means** firrtly **the** tistoric thime **and** seconcle
-22. *Im Training*
+22. **The** temm postaclonialism **means** fisrttly **the** tistoric **time** **and** seconcle
 
 Und hier das *normale* Tesseract eng Ergebniss: `Che Jom pethecheiwbly) on Aas, poe Nefevi. Jin, cath vec.`
 
