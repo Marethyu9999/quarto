@@ -266,14 +266,16 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <h2 id="toc-title">Inhaltsverzeichnis</h2>
    
   <ul>
-  <li><a href="#englisches-modell" id="toc-englisches-modell" class="nav-link active" data-scroll-target="#englisches-modell"><span class="header-section-number">A.1</span> Englisches Modell</a>
+  <li><a href="#versuche" id="toc-versuche" class="nav-link active" data-scroll-target="#versuche"><span class="header-section-number">A.1</span> Versuche</a>
   <ul class="collapse">
-  <li><a href="#timeline-in-10.000er-schritten" id="toc-timeline-in-10.000er-schritten" class="nav-link" data-scroll-target="#timeline-in-10.000er-schritten"><span class="header-section-number">A.1.1</span> Timeline (in 10.000er Schritten)</a></li>
+  <li><a href="#ein-rein-englisches-modell" id="toc-ein-rein-englisches-modell" class="nav-link" data-scroll-target="#ein-rein-englisches-modell"><span class="header-section-number">A.1.1</span> ein rein Englisches Modell</a></li>
+  <li><a href="#ein-multilinguelles-basismodell-mit-späteren-finetuning" id="toc-ein-multilinguelles-basismodell-mit-späteren-finetuning" class="nav-link" data-scroll-target="#ein-multilinguelles-basismodell-mit-späteren-finetuning"><span class="header-section-number">A.1.2</span> Ein multilinguelles Basismodell mit späteren finetuning</a></li>
   </ul></li>
   <li><a href="#nützliche-python-scripts" id="toc-nützliche-python-scripts" class="nav-link" data-scroll-target="#nützliche-python-scripts"><span class="header-section-number">A.2</span> Nützliche Python scripts</a>
   <ul class="collapse">
   <li><a href="#ein-datei-umbenenner" id="toc-ein-datei-umbenenner" class="nav-link" data-scroll-target="#ein-datei-umbenenner"><span class="header-section-number">A.2.1</span> Ein Datei Umbenenner</a></li>
   <li><a href="#dateien-ohne-file-extension-mit-.gt.txt-versehen" id="toc-dateien-ohne-file-extension-mit-.gt.txt-versehen" class="nav-link" data-scroll-target="#dateien-ohne-file-extension-mit-.gt.txt-versehen"><span class="header-section-number">A.2.2</span> Dateien ohne File-Extension mit <code>.gt.txt</code> versehen</a></li>
+  <li><a href="#file-präfixer" id="toc-file-präfixer" class="nav-link" data-scroll-target="#file-präfixer"><span class="header-section-number">A.2.3</span> File Präfixer</a></li>
   </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/Marethyu9999/quarto/issues/new" class="toc-action"><i class="bi bi-github"></i>Problem melden</a></li><li><a href="https://github.com/Marethyu9999/quarto/edit/main/tesstrain/tesstrain.qmd" class="toc-action"><i class="bi empty"></i>Seite editieren</a></li><li><a href="https://github.com/Marethyu9999/quarto/blob/main/tesstrain/tesstrain.qmd" class="toc-action"><i class="bi empty"></i>Quellcode anzeigen</a></li></ul></div></nav>
@@ -300,12 +302,16 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </header>
 
 
-<section id="englisches-modell" class="level2" data-number="A.1">
-<h2 data-number="A.1" class="anchored" data-anchor-id="englisches-modell"><span class="header-section-number">A.1</span> Englisches Modell</h2>
+<section id="versuche" class="level2" data-number="A.1">
+<h2 data-number="A.1" class="anchored" data-anchor-id="versuche"><span class="header-section-number">A.1</span> Versuche</h2>
+<section id="ein-rein-englisches-modell" class="level3" data-number="A.1.1">
+<h3 data-number="A.1.1" class="anchored" data-anchor-id="ein-rein-englisches-modell"><span class="header-section-number">A.1.1</span> ein rein Englisches Modell</h3>
+<p><a href="https://nx41088.your-storageshare.de/s/mL5NidmcQN3baDH">Modell</a> und <a href="https://nx41088.your-storageshare.de/s/YFsswT6qsA6XxMj">training data</a> verfügbar</p>
 <p>Für das Englische Modell habe ich bisher eine meiner Einglisch Klausuren in etwa <em>220</em> Teile unterteilt, welche vorerst verwendet werden um das Modell zu trainieren.</p>
 <p>Um es zu testen, kann <code>tesseract /mnt/d/Programming/tesstrain/data/eng_Erik-ground-truth/eva1_slice1.tif stdout --tessdata-dir /mnt/d/Programming/tesstrain/data -l eng_Erik --psm 7</code> ausgeführt werden.</p>
-<section id="timeline-in-10.000er-schritten" class="level3" data-number="A.1.1">
-<h3 data-number="A.1.1" class="anchored" data-anchor-id="timeline-in-10.000er-schritten"><span class="header-section-number">A.1.1</span> Timeline (in 10.000er Schritten)</h3>
+<p>Um zu trainieren in <code>/mnt/d/Programming/tesstrain</code> sein und <code>make training MODEL_NAME=eng_Erik MAX_ITERATIONS=300000</code> ausführen</p>
+<section id="timeline-in-10.000er-schritten" class="level4" data-number="A.1.1.1">
+<h4 data-number="A.1.1.1" class="anchored" data-anchor-id="timeline-in-10.000er-schritten"><span class="header-section-number">A.1.1.1</span> Timeline (in 10.000er Schritten)</h4>
 <p><img src="assets/eva1_slice1.png" class="img-fluid" width="1266"></p>
 <p>Satz: <strong><em>The term postcolonialism means firstly the historic time and secondly</em></strong></p>
 <ol type="1">
@@ -331,8 +337,22 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <li><strong>The term</strong> postoclonialism meass firsly <strong>the</strong> <strong>historic</strong> the <strong>and</strong> seceraled</li>
 <li><strong>The</strong> tesm postoclonialismm <strong>means</strong> firrtly <strong>the</strong> tistoric thime <strong>and</strong> seconcle</li>
 <li><strong>The</strong> temm postaclonialism <strong>means</strong> fisrttly <strong>the</strong> tistoric <strong>time</strong> <strong>and</strong> seconcle</li>
+<li>TVhe <strong>term</strong> postcolonialisms <strong>means</strong> fxtly <strong>the</strong> <strong>historic</strong> <strong>time</strong> <strong>and</strong> secorcole</li>
+<li><strong>The</strong> <strong>term</strong> postcolonialims <strong>means</strong> frmesly <strong>the</strong> <strong>historic</strong> <strong>time</strong> <strong>and</strong> secorole</li>
+<li><strong>The</strong> ters postcolonialims <strong>means</strong> fisssly <strong>the</strong> tistoric <strong>time</strong> <strong>and</strong> seconole</li>
+<li>Thie term postcolonialisss <strong>means</strong> ficstly <strong>the</strong> <strong>historic</strong> <strong>time</strong> <strong>and</strong> secanole</li>
+<li><strong>The term</strong> postcolomnialims vyeans firisttly <strong>the</strong> tistoric tirme <strong>and</strong> seconol</li>
+<li>he ters postcclonialisss meams fisstly <strong>the</strong> tistoric <strong>time</strong> <strong>and</strong> seconcle</li>
+<li>Tie <strong>term</strong> postoclonialisms <strong>means</strong> fiissly <strong>the</strong> <strong>historic time and</strong> secondl</li>
+<li><strong>The</strong> trrm postcoclonialisss <strong>means firstly the</strong> tietoric <strong>time and</strong> secondl</li>
 </ol>
 <p>Und hier das <em>normale</em> Tesseract eng Ergebniss: <code>Che Jom pethecheiwbly) on Aas, poe Nefevi. Jin, cath vec.</code></p>
+<p>Wie in den Ergebnissen zu sehen ist, ist die Datenbasis vermutlich zu klein und das Modell daher zu spezifisch.</p>
+</section>
+</section>
+<section id="ein-multilinguelles-basismodell-mit-späteren-finetuning" class="level3" data-number="A.1.2">
+<h3 data-number="A.1.2" class="anchored" data-anchor-id="ein-multilinguelles-basismodell-mit-späteren-finetuning"><span class="header-section-number">A.1.2</span> Ein multilinguelles Basismodell mit späteren finetuning</h3>
+<p><a href="https://nx41088.your-storageshare.de/s/YFsswT6qsA6XxMj">https://nx41088.your-storageshare.de/s/YFsswT6qsA6XxMjhttps://nx41088.your-storageshare.de/s/YFsswT6qsA6XxMj</a></p>
 </section>
 </section>
 <section id="nützliche-python-scripts" class="level2" data-number="A.2">
@@ -397,6 +417,36 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb2-30"><a href="#cb2-30" aria-hidden="true" tabindex="-1"></a>        rename_files_in_directory(directory)</span>
 <span id="cb2-31"><a href="#cb2-31" aria-hidden="true" tabindex="-1"></a>    <span class="cf">else</span>:</span>
 <span id="cb2-32"><a href="#cb2-32" aria-hidden="true" tabindex="-1"></a>        rename_files_in_directory(os.getcwd())</span></code><button title="In die Zwischenablage kopieren" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</section>
+<section id="file-präfixer" class="level3" data-number="A.2.3">
+<h3 data-number="A.2.3" class="anchored" data-anchor-id="file-präfixer"><span class="header-section-number">A.2.3</span> File Präfixer</h3>
+<div class="sourceCode" id="cb3"><pre class="sourceCode py code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> os</span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> sys</span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> add_prefix(directory, prefix, recursive<span class="op">=</span><span class="va">False</span>):</span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>    file_count <span class="op">=</span> <span class="dv">0</span></span>
+<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a>    <span class="cf">for</span> filename <span class="kw">in</span> os.listdir(directory):</span>
+<span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a>        file_path <span class="op">=</span> os.path.join(directory, filename)</span>
+<span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a>        <span class="cf">if</span> os.path.isfile(file_path):</span>
+<span id="cb3-10"><a href="#cb3-10" aria-hidden="true" tabindex="-1"></a>            new_filename <span class="op">=</span> prefix <span class="op">+</span> filename</span>
+<span id="cb3-11"><a href="#cb3-11" aria-hidden="true" tabindex="-1"></a>            os.rename(file_path, os.path.join(directory, new_filename))</span>
+<span id="cb3-12"><a href="#cb3-12" aria-hidden="true" tabindex="-1"></a>            file_count <span class="op">+=</span> <span class="dv">1</span></span>
+<span id="cb3-13"><a href="#cb3-13" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-14"><a href="#cb3-14" aria-hidden="true" tabindex="-1"></a>        <span class="cf">if</span> recursive <span class="kw">and</span> os.path.isdir(file_path):</span>
+<span id="cb3-15"><a href="#cb3-15" aria-hidden="true" tabindex="-1"></a>            count <span class="op">=</span> add_prefix(file_path, prefix, recursive)</span>
+<span id="cb3-16"><a href="#cb3-16" aria-hidden="true" tabindex="-1"></a>            file_count <span class="op">+=</span> count</span>
+<span id="cb3-17"><a href="#cb3-17" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-18"><a href="#cb3-18" aria-hidden="true" tabindex="-1"></a>    <span class="cf">return</span> file_count</span>
+<span id="cb3-19"><a href="#cb3-19" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-20"><a href="#cb3-20" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-21"><a href="#cb3-21" aria-hidden="true" tabindex="-1"></a><span class="cf">if</span> <span class="va">__name__</span> <span class="op">==</span> <span class="st">"__main__"</span>:</span>
+<span id="cb3-22"><a href="#cb3-22" aria-hidden="true" tabindex="-1"></a>    directory <span class="op">=</span> <span class="bu">input</span>(<span class="st">"Enter the directory path: "</span>)</span>
+<span id="cb3-23"><a href="#cb3-23" aria-hidden="true" tabindex="-1"></a>    prefix <span class="op">=</span> <span class="bu">input</span>(<span class="st">"Enter the prefix: "</span>)</span>
+<span id="cb3-24"><a href="#cb3-24" aria-hidden="true" tabindex="-1"></a>    recursive <span class="op">=</span> <span class="bu">input</span>(<span class="st">"Do you want to make it recursive (y/n)? "</span>).lower() <span class="op">==</span> <span class="st">'y'</span></span>
+<span id="cb3-25"><a href="#cb3-25" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-26"><a href="#cb3-26" aria-hidden="true" tabindex="-1"></a>    file_count <span class="op">=</span> add_prefix(directory, prefix, recursive)</span>
+<span id="cb3-27"><a href="#cb3-27" aria-hidden="true" tabindex="-1"></a>    <span class="bu">print</span>(<span class="ss">f"</span><span class="sc">{</span>file_count<span class="sc">}</span><span class="ss"> files renamed."</span>)</span></code><button title="In die Zwischenablage kopieren" class="code-copy-button"><i class="bi"></i></button></pre></div>
 
 
 </section>
