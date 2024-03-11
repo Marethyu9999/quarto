@@ -6,6 +6,8 @@ Für das Englische Modell habe ich bisher eine meiner Einglisch Klausuren in etw
 
 Um es zu testen, kann `tesseract /mnt/d/Programming/tesstrain/data/eng_Erik-ground-truth/eva1_slice1.tif stdout --tessdata-dir /mnt/d/Programming/tesstrain/data -l eng_Erik --psm 7` ausgeführt werden.
 
+Um zu trainieren in `/mnt/d/Programming/tesstrain` sein und `make training MODEL_NAME=eng_Erik MAX_ITERATIONS=300000` ausführen
+
 ### Timeline (in 10.000er Schritten)
 
 ![](assets/eva1_slice1.png){width="1266"}
@@ -34,6 +36,14 @@ Satz: ***The term postcolonialism means firstly the historic time and secondly**
 20. **The term** postoclonialism meass firsly **the** **historic** the **and** seceraled
 21. **The** tesm postoclonialismm **means** firrtly **the** tistoric thime **and** seconcle
 22. **The** temm postaclonialism **means** fisrttly **the** tistoric **time** **and** seconcle
+23. TVhe **term** postcolonialisms **means** fxtly **the** **historic** **time** **and** secorcole
+24. **The** **term** postcolonialims **means** frmesly **the** **historic** **time** **and** secorole
+25. **The** ters postcolonialims **means** fisssly **the** tistoric **time** **and** seconole
+26. Thie term postcolonialisss **means** ficstly **the** **historic** **time** **and** secanole
+27. **The term** postcolomnialims vyeans firisttly **the** tistoric tirme **and** seconol
+28. he ters postcclonialisss meams fisstly **the** tistoric **time** **and** seconcle
+29. Tie **term** postoclonialisms **means** fiissly **the** **historic time and** secondl
+30. **The** trrm postcoclonialisss **means firstly the** tietoric **time and** secondl
 
 Und hier das *normale* Tesseract eng Ergebniss: `Che Jom pethecheiwbly) on Aas, poe Nefevi. Jin, cath vec.`
 
