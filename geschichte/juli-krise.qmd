@@ -2,4 +2,9 @@
 
 ## Zeistrahl (bisher unfertig)
 
-[![Zeitstrahl der Juli Krise](/assets/Geschichte-Zeitsstrahl-1914_1918.excalidraw.png){width="1107"}](https://excalidraw.com/#json=p74uSd5-DnT67agjIF7sc,QCvyP_BZBbfcHmoGUYuklA)
+![](assets/Geschichte_1914-1918.svg)
+
+### Events
+
+-   28.06.1914 ➔ Attentat auf Ö-U
+-   05.07.1914 ➔ dt. Blankocheck
