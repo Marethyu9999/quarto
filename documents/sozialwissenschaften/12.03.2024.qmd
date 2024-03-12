@@ -1,0 +1,18 @@
+---
+title: "Einführung zu aktuellen Problemen der Europäischen Union"
+author: Erik Grobecker
+format: typst
+lang: de
+date: 12 03 2024
+---
+
+Frau Bella verschwindet nach dem 30.04.2024 (sie verschwindet in der Void)
+
+## Europäische Union
+
+Europa ≠ Europäische Union
+
+Nächste Problemfrage: "Warum wollte die UK aus der EU austreten"
+
+Was würde passieren wenn sich die EU änderen würde?
+

@@ -11,3 +11,4 @@ test.qmd
 *.aux
 _book
 _freeze
+documents/.gitignore
