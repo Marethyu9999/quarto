@@ -1,10 +1,21 @@
 # Die Juli Krise
 
-## Zeistrahl (bisher unfertig)
+## Zeistrahl
 
-![](assets/Geschichte_1914-1918.svg)
+![Zeitstahl des zweiten Weltkriegs (sollte in einem separaten Tab geöffnet werden)](assets/Geschichte_1914-1918.drawio.svg)
 
-### Events
+### Charakteristika eines Modernen Krieges
 
--   28.06.1914 ➔ Attentat auf Ö-U
--   05.07.1914 ➔ dt. Blankocheck
+-   Beschuss! Kampf auf großer Distanz
+    -   Giftgaseinsatz
+    -   Artillerie
+    -   Maschinengewehre
+-   Logistik: Eisenbahntransport, Mobilität der Truppen durch Lastwagen
+-   "Kriegswirtschaft"
+    -   Einsatz von Frauen in Rüstungsfabriken
+    -   Forschung & Erfindung zu Kriegszwecken
+    -   Kanalisierung der Rohstoffe
+
+## Folgen (wird vermutlich noch ergänzt)
+
+![Folgen des Zweiten Weltkriegs](assets/juli-krise_folgen.excalidraw.png)
