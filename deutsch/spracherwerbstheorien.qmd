@@ -12,4 +12,22 @@
 | Rezeption der Theorie                                |                                                                                                                                                  |                                                                                    |                                                          |                                              |
 +------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------+----------------------------------------------------------+----------------------------------------------+
 
+## Sapir-Whorf-Hypothese
+
+### Thesen
+
+1.  "Sprache ist die Art und Weise zu sehen was der Mensch denkt"
+    1.  Menschen können nicht ohne Sprache denken (im Plenum)
+2.  "Muttersprache beeinflusst die Art und Weise des Denkens"
+    1.  "kein Verständnis für die Phänomene fremder Kulturen"
+    2.  **"es ergibt sich die Unmöglichkeit interkulturellen oder gar universalen Verstehens"**
+3.  "Sprache ist ausdrücklich eine Kulturleistung"
+    1.  und **beruht somit nicht auf Instinkt**
+4.  "Sprache spiegelt die soziale Wirklichkeit wieder"
+    1.  Ober- und Unterschicht verwenden *verschiedene Sprachen* und spiegeln somit Unterschiede wieder
+
+### Konsequenzen der Hypothese
+
+Angenommen die Hypthese währe korrekt, könnten wir Andersprachige sehr viel schlechter wenn überhaupt verstehen, wir aufgrund des Einflusses der eigenen *Muttersprache* andere Erfahrung als *Andere* gemacht haben. Somit würde es stark erschwert sein, andere Kulturen überhaupt zu verstehen.
+
 [^spracherwerbstheorien-1]: wird Piajet gesprochen
