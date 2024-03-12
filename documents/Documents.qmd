@@ -1,5 +1,8 @@
 ---
 title: "Documents"
+lang: de
+author: Erik Grobecker
+format: typst
 ---
 
 ## Quarto
