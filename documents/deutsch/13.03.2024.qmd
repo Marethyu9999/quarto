@@ -1,0 +1,61 @@
+---
+title: "Deutsch am 13.02.2024"
+#date: 13 02 2024
+format: typst
+table-of-contents: false
+lang: de
+author: Erik Grobecker
+---
+
+## Plan für die nächsten Stunden
+
+Quartalsnoten am nächsten Mittwoch
+
+Theaterstück nächste Woche heißt *Don Giovanni* ➔ dazu mehr morgen
+
+## Exkurs Wolfskinder
+
+So werden Kinder welche seperiert von menschlicher Kultur aufgewachsen sind oder aufgezogen wurde.
+
+### Aufgabenstellung
+
+1.  Wir sollen zu der gegeben **Person recherchieren und** nach möglich **Kontext zu Spracherwerbstheorien und Kommunikation herausfinden**.
+
+### Peter der Wilde (1724-1785)
+
+Link zum [Wikipedia](https://de.wikipedia.org/wiki/Wilder_Peter_von_Hameln) Artikel
+
+> ernährte sich vorwiegend von Vögeln und rohem Gemüse
+>
+> lachte nie und zeigte absolute sexuelle und finanzielle Gleichgültigkeit
+>
+> Er erlernte nie das Sprechen
+
+Link zu einem [Spiegel](https://www.spiegel.de/wissenschaft/mensch/seltene-entwicklungsstoerung-was-den-wilden-peter-von-hameln-quaelte-a-752250.html) Artikel
+
+> soll Musik geliebt haben
+
+Dass "Peter der Wilde" nie Sprache wirklich erlernt hat, würde weder zum *Nativismus* noch zum *Behaviourismus* oder zum *Interaktionismus* passen. Da diese erstens behaupten, dass der Mensch Sprache schon bei Geburt zum Teil erlernt, was hier eindeutig nicht der Fall war, zweitens dass der Mensch
+
+## Sapir-Whorf-Hypothese
+
+### Aufgaben
+
+1.  Zentrale Thesen zusammenfassen (etwa vier Stück)
+2.  Erläutert, welche Konsequenzen die Annahme der Hypothese für unterschiedliche Gruppen in der Gesellschaft [und]{.underline} die Weltbevölkerung insgesamt hat.
+
+### Thesen
+
+1.  "Sprache ist die Art und Weise zu sehen was der Mensch denkt"
+    1.  Menschen können nicht ohne Sprache denken (im Plenum)
+2.  "Muttersprache beeinflusst die Art und Weise des Denkens"
+    1.  "kein Verständnis für die Phänomene fremder Kulturen"
+    2.  **"es ergibt sich die Unmöglichkeit interkulturellen oder gar universalen Verstehens"**
+3.  "Sprache ist ausdrücklich eine Kulturleistung"
+    1.  und **beruht somit nicht auf Instinkt**
+4.  "Sprache spiegelt die soziale Wirklichkeit wieder"
+    1.  Ober- und Unterschicht verwenden *verschiedene Sprachen* und spiegeln somit Unterschiede wieder
+
+### Konsequenzen der Hypothese
+
+Angenommen die Hypthese währe korrekt, könnten wir Andersprachige sehr viel schlechter wenn überhaupt verstehen, wir aufgrund des Einflusses der eigenen *Muttersprache* andere Erfahrung als *Andere* gemacht haben. Somit würde es stark erschwert sein, andere Kulturen überhaupt zu verstehen.
