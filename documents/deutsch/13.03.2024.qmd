@@ -1,0 +1,53 @@
+---
+title: "Deutsch am 13.03.2024"
+lang: de
+author: Erik Grobecker
+format: typst
+---
+
+### Gedanken zu Begriffen
+
+-   Freiheit
+    -   im Sinne von Kultur
+    -   wovon kann man frei sein?
+    -   Was macht einen unfrei(oder gefangen)?
+-   Glück
+    -   Philosophie
+    -   Dopamin
+-   Erfolg
+    -   kulturell gebunden
+        -   wird zumeist nicht vom Recipienten selbst bestimmt
+
+### Beobachtungen mit Plenum
+
+-   Glück ist individuell
+
+### Worterklärungen
+
+Denotation ➔ eng-gefasste Wortbedeutung ➔ inter-subjektive Bedeutung\
+Konnotation ➔ abstrakte Wortbedeutung ➔ subjektive Bedeutung
+
+(wenn noch jmd sagt, dass die Sonne ein Planet sei, explodier ich)
+
+### Mehr zur Sapir-Whorf
+
+-   Hypothese gilt als nicht länger haltbar
+
+    -   da "*Menschen aus verschiedenen Gruppen sich verständigen können*"
+
+### Was ist typisch Junge/Mädchen[^1]
+
+[^1]: warum?
+
+Maskulinität/Femininität werden kulturell definiert, und sind daher subjektiv.
+
+-   Junge
+
+-   Mädchen
+
+> *"Tatsächlich verhaltet ihr euch genauso wie die fünte Klasse, keine Überraschung"*\
+> — Herr Griese
+
+## Anmerkungen:
+
+-   ich muss noch `rg` installieren (und `rg-all`)
