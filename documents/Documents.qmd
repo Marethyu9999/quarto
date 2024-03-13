@@ -2,5 +2,5 @@
 title: "Documents"
 lang: de
 author: Erik Grobecker
-format: typst
+format: pdf
 ---

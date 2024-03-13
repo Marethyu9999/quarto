@@ -1,0 +1,34 @@
+---
+title: "Biologie am 13.03.2024"
+lang: de
+author: Erik Grobecker
+format: pdf
+---
+
+## Natürliche Zeiger vs. Laboruntersuchung
+Anders ale eine singulare Probe in einem Lab, zeigen natürliche Zeiger, dass ein bestimmtes Attribut über einen längeren Zeitraum verfügbar war.
+
+### Plenum:
+
+Stenöcke Organismen dienen als sogenannte Bioindikatoren, weil sie für den Ökofaktor, für den sie empfänglich somd, durch ihr Gedeihen eine längerfristige Aussage zulassen.
+
+z.B.:\
+- Bachforelle: Wasser ist kalt und $O_2$ reich
+- Brennessel: Standort ist $N$-reich
+- Flechte: Standort hat "saubere" Luft
+
+Im Vergleich zu im Labor ermittelten Werten lassen Bioindikatoren Aussagen über das Gebiet in dem sie vorkommen über einen längeren Zeitraum zu ($\emptyset$ Werte liegen langfristig im Optimum)
+
+## Arbeitsblatt
+
+### Worterklärungen
+
+Röhricht -> Schilfgebiete\
+eutropf -> nährstoffreich\ 
+Trockenmasse -> Biomasse ohne Wasser
+
+### Erarbeitetes
+
+Der Organismus, welcher mit Konkurrenz näher an seinem physiologischen Optimum wächst, ist konkurrenzstärker
+
+Physiologische Potenz, ist wie ein Organismus ohne Konkurrenz wachsen würde, das Gegenteil bildet die biologische Potenz, welche durch Konkurrenz eingeschränkt wurde.
