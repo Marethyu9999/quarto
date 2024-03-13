@@ -1,0 +1,35 @@
+---
+title: "Mathe Hausaufgabe für den 14.03.2024"
+lang: de
+author: Erik Grobecker
+format: pdf
+toc: true
+---
+
+## S. 187 Nr. 4
+
+### a)
+
+für die Gerade $g$ brauchen wir:\
+- Richtungsvektor = $\vec{PF}=F-P=\begin{pmatrix} -3 \\ 6 \\ 5 \end{pmatrix}-\begin{pmatrix} -3 \\ 0 \\ 0 \end{pmatrix}=\begin{pmatrix} 0 \\ 6 \\ 5 \end{pmatrix}$\
+  - $P=A-D:2=(-3|0|0)$
+- Stützvektor = $\vec{AP}=\begin{pmatrix} -3 \\ 0 \\ 0 \end{pmatrix}$\
+Also: $\begin{pmatrix} -3 \\ 0 \\ 0 \end{pmatrix}+t\times\begin{pmatrix} 0 \\ 6 \\ 5 \end{pmatrix}$
+
+für die Gerade $h$ brauchen wir:\
+- Richtungsvektor = $\vec{QR}=\begin{pmatrix} 0 \\ 4 \\ 0 \end{pmatrix}\begin{pmatrix} -1,5 \\ 0,4 \\ 2,5 \end{pmatrix}=\begin{pmatrix} 1,5 \\ 4,5 \\ 2,5 \end{pmatrix}$
+  - Punkt zwischen C und D = R = $\vec{DC}=\begin{pmatrix} -6 \\ 8 \\ 0 \end{pmatrix}-\begin{pmatrix} -6 \\ 0 \\ 0 \end{pmatrix}=\begin{pmatrix} 0 \\ 8 \\ 0 \end{pmatrix}$
+    - $\vec{DC}/2=R=\begin{pmatrix} 0 \\ 8 \\ 0 \end{pmatrix}:2=(0|4|0)$
+  - Punkt zwischen A und E = Q = $\vec{AE}=\begin{pmatrix} -3 \\ 1 \\ 5 \end{pmatrix}-\begin{pmatrix} 0 \\ 0 \\ 0 \end{pmatrix}:2=\begin{pmatrix} -3 \\ 1 \\ 5 \end{pmatrix}:2=\begin{pmatrix} -1,5 \\ 0,5 \\ 2,5 \end{pmatrix}=(-1,5|0,5|2,5)=Q$ 
+- Stützvektor = $\vec{AQ}=\begin{pmatrix} -1,5 \\ 0,5 \\ 2,5 \end{pmatrix}$\
+Also: $\begin{pmatrix} -1,5 \\ 0,5 \\ 2,5 \end{pmatrix}+s\times \begin{pmatrix} 1,5 \\ 4,5 \\ 2,5 \end{pmatrix}$
+
+Letztlich errechnen wir, ob beide zueinander windschief sind:
+
+1. Parallelität: $r\times \begin{pmatrix} 1,5 \\ 4,5 \\ 2,5 \end{pmatrix}\neq \begin{pmatrix} 0 \\ 6 \\ 5 \end{pmatrix}$
+2. $\begin{pmatrix} -3 \\ 0 \\ 0 \end{pmatrix}+t\times \begin{pmatrix} 0 \\ 6 \\ 5 \end{pmatrix}\neq\begin{pmatrix} 1,5 \\ 4,5 \\ 2,5 \end{pmatrix}+5\times \begin{pmatrix} 1,5 \\ 4.5 \\ 2,5 \end{pmatrix}$
+
+### b)
+
+1. Länge von $\vec{PF}=\sqrt{0^{2}+6^{2}+5^{2}}=43$
+2. Länge von $\vec{QR}=\sqrt{1,5^{2}+4,5^{2}+2,5^{2}}\simeq 5.362$
