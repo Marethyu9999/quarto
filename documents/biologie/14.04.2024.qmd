@@ -1,0 +1,31 @@
+---
+title: "Documents"
+lang: de
+author: Erik Grobecker
+format: pdf
+---
+
+## Konkurrenzformen
+
+-   selbe Art der Pflanzen → **intra-spezifisch**
+-   verschiedene Arten an Pflanzen → **inter-spezifisch**
+
+Außerhalb von Laborbedinungen unterliegen Organismen immer einem Konkurrenzkampf. Dabei kann es sich um innerartliche Konkurrenz handeln = **intraspezifische** Konkurrenz, wenn Organismen der selben Art um Ressourcen konkurrieren oder um zwischenartliche=**interspezifische** Konkurrenz, wenn verschiedene Spezien miteinander im Wettbewerb stehen.
+
+Organismen mit breiter Toleranz können besser Konkurrenten vermeiden und Freßfeinden ausweichen
+
+Bei Konkurrenzstarken Organismen sind *physiologisches* und *ökologisches* Optimum nahezu gleich, Konkurrenzschwächere werden in Randbereiche ihrer *physiologischen* Toleranz verdrängt!
+
+## ökologische Nische (S. 372) {#nische}
+
+→ Gesamtheit aller biotischen und abiotischen Ansprüchen einer Art
+
+### HA
+
+- Definition der ökologischen Nische
+  - Gesamtheit aller biotischen und abiotischen Ansprüchen einer Art
+- Unterschied zwischen realer und fundamentaller Nische
+  - reale Nische
+    - Nische mit *Konkurrenz* Anderer
+  - fundamentale Nische
+    - Nische ohne *Konkurrenz* Anderer
