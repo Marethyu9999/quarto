@@ -9,3 +9,24 @@
 ### Optimumdiagramm von abiotischen Faktoren
 
 [![Optimumdiagramm mit abiotischen Faktoren](/assets/optimumdiagramm.excalidraw.png){#fig-bio_abiotische-Optimumsdiagramm width="798"}](https://excalidraw.com/#json=YWaEEX66DivwclQ0NT29o,fKYx1gz4QRMTvRzBLNJq5A)
+
+## Konkurrenzformen
+
+- selbe Art der Pflanzen → **intra-spezifisch**
+- verschiedene Arten an Pflanzen → **inter-spezifisch**
+
+Außerhalb von Laborbedinungen unterliegen Organismen immer einem Konkurrenzkampf. Dabei kann es sich um innerartliche Konkurrenz handeln = **intraspezifische** Konkurrenz, wenn Organismen der selben Art um Ressourcen konkurrieren oder um zwischenartliche=**interspezifische** Konkurrenz, wenn verschiedene Spezien miteinander im Wettbewerb stehen.
+
+## ökologische Nische
+
+→ Gesamtheit aller biotischen und abiotischen Ansprüchen einer Art
+
+Die ökologische Nische unterteilt sich in die [reale Nische](#reale-nische) und die [fundamentale Nische](#fundamentale-nische)
+
+### reale Nische
+
+Nische mit *Konkurrenz* anderer Organismen
+
+### fundamentale Nische
+
+Nische ohne *Konkurrenz* anderer Organismen
