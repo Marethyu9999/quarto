@@ -1,0 +1,21 @@
+---
+title: "Philosophie am 14.03.2024"
+lang: de
+author: Erik Grobecker
+format: pdf
+---
+
+# Gedankenexperimentmit
+
+- Fiktive Situationen mit Ursache-Wirkungs-beziehung
+- Philosophische Theorien werden getestet
+- Extremsituationen werden konstruiert
+- wenige Alternativen
+- Gefühlsreaktionen und Intuituinen werden angesprochen
+
+## Those who walk away from Omelas
+
+### utilitaristisches Kalkül
+
+Ein Kind muss leiden, damit die gesamte Stadt sich in Glück laben kann, es ist somit das *Unglück eines einzelnen für das Glück der Mehrheit*.
+

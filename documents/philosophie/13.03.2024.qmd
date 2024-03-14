@@ -13,19 +13,19 @@ format: typst
     -   die meisten guten Konsequenzen finden
     -   Folgen einer einzelnen Handlung
 
--   Regelutilitarismus
+-   Regel-Utilitarismus
 
     -   Regeln, ohne Rücksicht auf die möglichen besten Folgen, folgen
-    -   Regeln sollten dem größten gemeinen Wohl entsprechend gewählt werden
+    -   Regeln sollten dem größten gemeinen Wohl entsprechend gewählt werden.
         -   also nach dem Prinzip der Nützlichkeit
-    -   Regeln sollen überwiegend oft gute Folgen haben
+    -   Regeln sollen überwiegend oft gute Folgen haben.
 
-### Text von John Stuart Mill in dieses Kriteritum einordnen (S. 166 M17)
+### Text von John Stuart Mill in dieses Kriterium einordnen (S. 166, M17)
 
--   Mill findet, dass manche Arten des Glücks *qualitativer* sind als andere, vorallem wenn *höhere Fähigkeiten* gefordert werden
+-   Mill findet, dass manche Arten des Glücks *qualitativer* sind als andere, vor allem wenn *höhere Fähigkeiten* gefordert werden.
     -   könnten somit Regeln genutzt werden, um Menschen auf dieses Glück zuzubewegen?
-    -   Wenn durch Regelung die *höheren Fähigkeiten* gefördert würden, würden *höhere Fähigkeiten* gefordert werden können
-        -   somit würde eine *höhere Qualität* für die meisten erreicht werden und **Regeln wären angebracht**
+    -   Wenn durch Regelung die *höheren Fähigkeiten* gefördert würden, würden *höhere Fähigkeiten* gefordert werden können.
+        -   Somit würde eine *höhere Qualität* für die meisten erreicht werden und **Regeln wären angebracht.**
 -   Utilitarismus fordert Unparteilichkeit als wohlwollender Zuschauer
     -   geht sehr in die Richtung des Handlungsutilitarismus
-        -   da Regeln die Unparteilichkeit beeinträchtigen würden
+        -   Da Regeln die Unparteilichkeit beeinträchtigen würden
