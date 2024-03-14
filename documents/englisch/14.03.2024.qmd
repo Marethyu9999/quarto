@@ -1,0 +1,35 @@
+---
+title: "English on the 14.03.2024"
+lang: en
+author: Erik Grobecker
+format: pdf
+---
+
+## Attitude of the British Empire
+
+The mindset of British statesmen was shaped by a notion of patriotism, their superiority as a naval power and the assumption that they are supposed to conquer and rule.\
+According to the quotes the British were regarded as unmatched, outstanding country.
+
++-------------------------------------------------------------------------------------+---------------------------------------------------------------------------+-------------------------------------------------------+
+| rise(3267) 1400-1814                                                                | prime(145) 1814-1920s                                                     | fall after 1940s                                      |
++=====================================================================================+===========================================================================+=======================================================+
+| -   Portugal/Spain dominate 1400s first voyages across the Atlantic to the Americas | -   Britain's imperial nature base on large, armed naval fleet and wealth | -   independence of former colonies dismantled empire |
+|                                                                                     |                                                                           |                                                       |
+| -   1607 settlement in Jamestownn, Virginia                                         | -   lang gains but bankruptcy through military spending                   | ```{=html}                                            |
+|                                                                                     |                                                                           | <!-- -->                                              |
+| -   trading posts ➔ subjugation                                                     | -   peak of the empire in 1922                                            | ```                                                   |
+|                                                                                     |                                                                           | -   repercussions of World Wars                       |
+| -   emancipation of the 13 colonies                                                 |                                                                           |                                                       |
++-------------------------------------------------------------------------------------+---------------------------------------------------------------------------+-------------------------------------------------------+
+| -   17th ct expansion along West coast and the Caribbean                            | -   closed economy for goods like opium, silk, cotton, tea                | -   migration across the globe                        |
+|                                                                                     |                                                                           |                                                       |
+| -   defeating Napolean in 1814 ➔ unrivalled power until 1914                        |                                                                           | -   legacy felt until today                           |
+|                                                                                     |                                                                           |                                                       |
+| -   focus on colonizing Asia, the Pacific region and Africa                         |                                                                           |                                                       |
++-------------------------------------------------------------------------------------+---------------------------------------------------------------------------+-------------------------------------------------------+
+|                                                                                     |                                                                           |                                                       |
++-------------------------------------------------------------------------------------+---------------------------------------------------------------------------+-------------------------------------------------------+
+
+> "You subjugate ... a people to oppress them"
+>
+> — Frau Hartmann
