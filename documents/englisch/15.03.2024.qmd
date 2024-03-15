@@ -1,0 +1,23 @@
+---
+title: "English on the 15.03.2024"
+lang: de
+author: Erik Grobecker
+format: pdf
+---
+
+## Todays Agenda
+
+-   a few are writing the vocab test, as they were ill yesterday
+-   most get their exams back, and we'll talk about a few issues
+
+## Mediation of a text using specific quotes
+
+The given text, labeled as "Und Jetzt Du. Rassismuskritisch leben", is an extract of a book written by a German journalist named *Tupoka Ogette* and published in 2022.\
+In the first part it consists about the author ranting[^1] over the racism related questions, like for example the question if racism really exists,\
+while in the second part she reports about her endless cycle of getting asked about racism by reporters, which applies according to her to all of germany.\
+Thirdly the author exclaims, that these question seem discrespectful to her and others, as they are asking wether racism still exists in germany,\
+and fourthly Ogette critizes the media for this behaviour.\
+In the next paragraph she states, that the changes at the moment make her feel hopeful, as journalists now state more and more progressive questions\
+and lastly the author goes over how people reacted to her posts and states that she made quite the impact.
+
+[^1]: to informal
