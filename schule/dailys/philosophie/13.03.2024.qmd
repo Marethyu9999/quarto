@@ -2,7 +2,7 @@
 title: "Philosophie am 13.03.2024"
 lang: de
 author: Erik Grobecker
-format: typst
+format: html
 ---
 
 ## Handlungs- und Regel-Utilitarismus (von Frankena auf S. 174 M23)

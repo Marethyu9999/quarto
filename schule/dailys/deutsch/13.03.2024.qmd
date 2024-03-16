@@ -2,7 +2,7 @@
 title: "Deutsch am 13.03.2024"
 lang: de
 author: Erik Grobecker
-format: typst
+format: html
 ---
 
 ### Gedanken zu Begriffen
