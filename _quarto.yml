@@ -37,12 +37,18 @@ book:
 
 website: 
   page-navigation: true
+  bread-crumbs: true
+  back-to-top-navigation: true
   sidebar: 
     style: docked
     search: true
+    collapse-level: 1
     contents: 
       - auto: mathe/
-      - auto: deutsch/*
+      - auto: deutsch/
+      - auto: biologie/
+      - auto: geschichte/
+      - auto: philosophie/
 
 #bibliography: references.bib
 
@@ -50,6 +56,7 @@ format:
   html:
     theme: cosmo
     lang: de
+    toc: true
   #pdf:
   #  documentclass: scrreprt
 
