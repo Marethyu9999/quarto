@@ -32,6 +32,7 @@ website:
         - auto: schule/biologie/
         - auto: schule/geschichte/
         - auto: schule/philosophie/
+        - auto: schule/dailys/
     - title: "Software"
       style: docked
       search: true

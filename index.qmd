@@ -4,8 +4,7 @@
 
 1.  [Quarto](quarto.org)
 2.  [Excalidraw](excalidraw.com)
-    i)  wie beispielsweise in der @fig-bio_abiotische-und-biotische-merkmale oder in der @fig-bio_abiotische-Optimumsdiagramm
-    ii) jedes hiermit erstelltes Bild müsste anclickbar sein, und damit einfach annotierbar
+    i) jedes hiermit erstelltes Bild müsste anclickbar sein, und damit einfach annotierbar
 3.  [Visual Studio Code](https://code.visualstudio.com/)
     1.  mit den Extensions:
         i)  [Excalidraw](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor)
