@@ -2,14 +2,14 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Vorwort",
+    "title": "",
     "section": "",
     "text": "Quarto\nExcalidraw\n\njedes hiermit erstelltes Bild müsste anclickbar sein, und damit einfach annotierbar\n\nVisual Studio Code\n\nmit den Extensions:\n\nExcalidraw\nQuarto\n\n\nMyScript Math Demo da ich viel zu faul bin um Latex zu lernen"
   },
   {
     "objectID": "index.html#verwendete-software",
     "href": "index.html#verwendete-software",
-    "title": "Vorwort",
+    "title": "",
     "section": "",
     "text": "Quarto\nExcalidraw\n\njedes hiermit erstelltes Bild müsste anclickbar sein, und damit einfach annotierbar\n\nVisual Studio Code\n\nmit den Extensions:\n\nExcalidraw\nQuarto\n\n\nMyScript Math Demo da ich viel zu faul bin um Latex zu lernen"
   },
@@ -596,7 +596,7 @@
     "href": "schule/dailys/index.html",
     "title": "Dailys",
     "section": "",
-    "text": "Zurück nach oben",
+    "text": "Hier liegen unkompilierte Notizen, welche recht wahrscheinlich Fehler enthalten.\nMan sollte sich nicht auf die Richtigkeit dieser verlassen\n\n\n\n Zurück nach oben",
     "crumbs": [
       "Schule",
       "Dailys"
@@ -718,17 +718,17 @@
     "href": "software/index.html",
     "title": "Software",
     "section": "",
-    "text": "Here I collect hopefully everything about my software ventures which I seek far and wide to expand even further.",
+    "text": "Hier sammel ich nützliche Software",
     "crumbs": [
       "Software"
     ]
   },
   {
-    "objectID": "software/index.html#what-do-i-do-here",
-    "href": "software/index.html#what-do-i-do-here",
+    "objectID": "software/index.html#was-tue-ich-hier",
+    "href": "software/index.html#was-tue-ich-hier",
     "title": "Software",
     "section": "",
-    "text": "Here I collect hopefully everything about my software ventures which I seek far and wide to expand even further.",
+    "text": "Hier sammel ich nützliche Software",
     "crumbs": [
       "Software"
     ]
