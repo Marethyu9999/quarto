@@ -1,6 +1,15 @@
 # Ein OCR Modell auf meine Schrift trainieren
 
-## Englisches Modell
+## Aufgaben
+
+- [ ] mindestens ein funktionierendes OCR-Modell trainieren
+- [ ] eine Website schreiben, mit welcher mit dem OCR Modell interagiert werden kann
+
+## Versuche
+
+### ein rein Englisches Modell
+
+[Modell](https://nx41088.your-storageshare.de/s/mL5NidmcQN3baDH) und [training data](https://nx41088.your-storageshare.de/s/YFsswT6qsA6XxMj) verfügbar
 
 Für das Englische Modell habe ich bisher eine meiner Einglisch Klausuren in etwa *220* Teile unterteilt, welche vorerst verwendet werden um das Modell zu trainieren.
 
@@ -8,7 +17,7 @@ Um es zu testen, kann `tesseract /mnt/d/Programming/tesstrain/data/eng_Erik-grou
 
 Um zu trainieren in `/mnt/d/Programming/tesstrain` sein und `make training MODEL_NAME=eng_Erik MAX_ITERATIONS=300000` ausführen
 
-### Timeline (in 10.000er Schritten)
+#### Timeline (in 10.000er Schritten)
 
 ![](assets/eva1_slice1.png){width="1266"}
 
@@ -46,6 +55,10 @@ Satz: ***The term postcolonialism means firstly the historic time and secondly**
 30. **The** trrm postcoclonialisss **means firstly the** tietoric **time and** secondl
 
 Und hier das *normale* Tesseract eng Ergebniss: `Che Jom pethecheiwbly) on Aas, poe Nefevi. Jin, cath vec.`
+
+Wie in den Ergebnissen zu sehen ist, ist die Datenbasis vermutlich zu klein und das Modell daher zu spezifisch.
+
+### Ein multilinguelles Basismodell mit späteren finetuning
 
 ## Nützliche Python scripts
 
@@ -112,4 +125,36 @@ if __name__ == "__main__":
         rename_files_in_directory(directory)
     else:
         rename_files_in_directory(os.getcwd())
+```
+
+### File Präfixer
+
+``` py
+import os
+import sys
+
+
+def add_prefix(directory, prefix, recursive=False):
+    file_count = 0
+    for filename in os.listdir(directory):
+        file_path = os.path.join(directory, filename)
+        if os.path.isfile(file_path):
+            new_filename = prefix + filename
+            os.rename(file_path, os.path.join(directory, new_filename))
+            file_count += 1
+
+        if recursive and os.path.isdir(file_path):
+            count = add_prefix(file_path, prefix, recursive)
+            file_count += count
+
+    return file_count
+
+
+if __name__ == "__main__":
+    directory = input("Enter the directory path: ")
+    prefix = input("Enter the prefix: ")
+    recursive = input("Do you want to make it recursive (y/n)? ").lower() == 'y'
+
+    file_count = add_prefix(directory, prefix, recursive)
+    print(f"{file_count} files renamed.")
 ```
