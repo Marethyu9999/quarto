@@ -6,35 +6,6 @@ project:
     browser: false
     port: 4200
 
-book:
-  title: "Schule"
-  author: "Erik Grobecker"
-  #date: "3/8/2024"
-  #downloads: [pdf, epub]
-  search: true
-  repo-url: "https://github.com/Marethyu9999/quarto"
-  repo-actions: [issue, edit, source]
-  chapters:
-    - index.qmd
-    - intro.qmd
-    - part: "Biologie"
-      chapters: 
-        - biologie/ökosysteme.qmd
-    - part: "Deutsch"
-      chapters: 
-        - deutsch/spracherwerbstheorien.qmd
-    - part: "Mathe"
-      chapters: 
-        - mathe/vektor-integrale.qmd
-    - part: "Philosophie"
-      chapters: 
-        - philosophie/kultur-essay.qmd
-    - part: "Geschichte"
-      chapters: 
-        - geschichte/juli-krise.qmd
-  appendices:
-    - tesstrain/tesstrain.qmd
-
 website: 
   page-navigation: true
   bread-crumbs: true
