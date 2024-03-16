@@ -1,6 +1,6 @@
 ---
-title: "Documents"
+title: "Dailys"
 lang: de
 author: Erik Grobecker
-format: pdf
+format: html
 ---

@@ -2,7 +2,7 @@
 title: "English on the 14.03.2024"
 lang: en
 author: Erik Grobecker
-format: pdf
+format: html
 ---
 
 ## Attitude of the British Empire

@@ -1,0 +1,11 @@
+---
+title: "Software"
+lang: de
+format:
+  html:
+    code-fold: true
+---
+
+## What do I do here
+
+Here I collect hopefully everything about my software ventures which I seek far and wide to expand even further.

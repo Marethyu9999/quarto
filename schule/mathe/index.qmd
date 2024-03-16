@@ -1,0 +1,9 @@
+---
+title: "Mathe"
+lang: de
+format:
+  html:
+    code-fold: true    
+---
+
+Ich mag Kekse

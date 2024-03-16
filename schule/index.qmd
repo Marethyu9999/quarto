@@ -1,0 +1,11 @@
+---
+title: "Schule"
+lang: de
+format:
+  html:
+    code-fold: true
+---
+
+# Schule
+
+ich mag käse
