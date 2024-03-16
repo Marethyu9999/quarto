@@ -1,5 +1,5 @@
 project:
-  type: book
+  type: website
   preview: 
     watch-inputs: true
     navigate: true
@@ -34,6 +34,15 @@ book:
         - geschichte/juli-krise.qmd
   appendices:
     - tesstrain/tesstrain.qmd
+
+website: 
+  page-navigation: true
+  sidebar: 
+    style: docked
+    search: true
+    contents: 
+      - auto: mathe/
+      - auto: deutsch/*
 
 #bibliography: references.bib
 
