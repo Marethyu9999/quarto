@@ -1,5 +1,3 @@
-# Vorwort {.unnumbered}
-
 ## Verwendete Software
 
 1.  [Quarto](quarto.org)

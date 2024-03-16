@@ -4,3 +4,6 @@ lang: de
 author: Erik Grobecker
 format: html
 ---
+
+Hier liegen **unkompilierte** Notizen, welche recht wahrscheinlich Fehler enthalten.\
+Man sollte sich nicht auf die Richtigkeit dieser verlassen

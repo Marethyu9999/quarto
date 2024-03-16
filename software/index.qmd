@@ -6,6 +6,6 @@ format:
     code-fold: true
 ---
 
-## What do I do here
+## Was tue ich hier
 
-Here I collect hopefully everything about my software ventures which I seek far and wide to expand even further.
+Hier sammel ich *nützliche* Software
