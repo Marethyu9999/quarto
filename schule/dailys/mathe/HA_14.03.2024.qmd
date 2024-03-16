@@ -2,7 +2,7 @@
 title: "Mathe Hausaufgabe für den 14.03.2024"
 lang: de
 author: Erik Grobecker
-format: pdf
+format: html
 toc: true
 ---
 

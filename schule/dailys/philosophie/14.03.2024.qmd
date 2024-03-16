@@ -2,7 +2,7 @@
 title: "Philosophie am 14.03.2024"
 lang: de
 author: Erik Grobecker
-format: pdf
+format: html
 ---
 
 # Gedankenexperimentmit

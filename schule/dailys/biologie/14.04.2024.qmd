@@ -2,7 +2,7 @@
 title: "Documents"
 lang: de
 author: Erik Grobecker
-format: pdf
+format: html
 ---
 
 ## Konkurrenzformen
