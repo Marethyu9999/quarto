@@ -1,0 +1,19 @@
+---
+title: "Biologie HA zum 21.03.2024"
+lang: de
+format: html
+---
+
+Da diese HA auch nur eine Wiederholung der Unterrichtsstunde darstellt, ist dies zugleich auch eine Transkription dessen.
+
+# M3 Versuche mit Pantoffeltierchen
+
+Verschiedene Arten von Pantoffeltierchen wurden in einem Laborversuch allein oder gemeinsam mit anderen Arten gehalten. Die Kulturen wurden regelmäßig mit Bakterien gefüttert. Die Pantoffeltierchen fressen sich nicht gegen‐ seitig und produzieren keine Giftstoffe. Die Arten Paramecium aurelia und Paramecium caudatum leben in der Kahmhaut. Paramecium bursaria bevorzugt den Bodenbereich des Heuaufgusses.
+
+![](assets/SMANA_AB_Oekologie_177_page0_image.png)
+
+## Was zu erkennen ist:
+
+Wie man in Versuch C sieht ist die Art *aurelia* **konkurrenzstärker** als *caudatum*, was vermutlich daran liegt, dass sich *aurelia* sehr viel schneller vermehrt,\
+dies wird außerdem, davon unterstützt, dass die *bursaria* Art, welche den Bodenbereich bevorzugt, auch nur kurz gegen das rapide Wachstum *aurelias* ankommt,
+aber aufgrund von dessen, dass es euryöker ist überlebt. 

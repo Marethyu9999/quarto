@@ -1,7 +1,6 @@
 ---
 title: "Biologie am 14.03.2024"
 lang: de
-author: Erik Grobecker
 format: html
 ---
 
