@@ -4,11 +4,11 @@
 
 ### Biotische und abiotische Faktoren im Ökosystem
 
-[![Beispiele für abiotische und biotische Faktoren eines Ökosystems](/assets/abiotisch-und-biotisch.excalidraw.png){#fig-bio_abiotische-und-biotische-merkmale width="839"}](https://excalidraw.com/#json=JjYlYXfMn5-ds5SFz7MvT,3_WdTXm_1kg6hmVv6w_btA)
+[![Beispiele für abiotische und biotische Faktoren eines Ökosystems](assets/abiotisch-und-biotisch.excalidraw.png){#fig-bio_abiotische-und-biotische-merkmale width="839"}](https://excalidraw.com/#json=JjYlYXfMn5-ds5SFz7MvT,3_WdTXm_1kg6hmVv6w_btA)
 
 ### Optimumdiagramm von abiotischen Faktoren
 
-[![Optimumdiagramm mit abiotischen Faktoren](/assets/optimumdiagramm.excalidraw.png){#fig-bio_abiotische-Optimumsdiagramm width="798"}](https://excalidraw.com/#json=YWaEEX66DivwclQ0NT29o,fKYx1gz4QRMTvRzBLNJq5A)
+[![Optimumdiagramm mit abiotischen Faktoren](assets/optimumdiagramm.excalidraw.png){#fig-bio_abiotische-Optimumsdiagramm width="798"}](https://excalidraw.com/#json=YWaEEX66DivwclQ0NT29o,fKYx1gz4QRMTvRzBLNJq5A)
 
 ## Konkurrenzformen
 
