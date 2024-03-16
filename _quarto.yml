@@ -10,16 +10,36 @@ website:
   page-navigation: true
   bread-crumbs: true
   back-to-top-navigation: true
-  sidebar: 
-    style: docked
+  navbar: 
+    background: primary
     search: true
-    collapse-level: 1
-    contents: 
-      - auto: mathe/
-      - auto: deutsch/
-      - auto: biologie/
-      - auto: geschichte/
-      - auto: philosophie/
+    left: 
+      - text: Home
+        file: index.qmd
+      - text: "Schule"
+        file: schule/index.qmd
+      - text: "Software"
+        file: software/index.qmd
+  sidebar: 
+    - title: "Schule"
+      style: docked
+      search: true
+      collapse-level: 1
+      contents: 
+        - schule/index.qmd
+        - auto: schule/mathe/
+        - auto: schule/deutsch/
+        - auto: schule/biologie/
+        - auto: schule/geschichte/
+        - auto: schule/philosophie/
+    - title: "Software"
+      style: docked
+      search: true
+      collapse-level: 1
+      contents: 
+        - software/index.qmd
+        - auto: software/*
+
 
 #bibliography: references.bib
 
