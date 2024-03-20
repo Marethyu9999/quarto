@@ -1,0 +1,50 @@
+#+title: Philosophie — tägliche Notizen
+#+STARTUP: overview
+#+date: null
+
+* 20.03.2024 :Kant:
+#+date: <2024-03-20 Mi>
+Kant ist gegen den Utiliterismus
+** S. 179 M24 Z. 1-30
+Aufgabe:
+- Welchen Philosophen meint er mit einer genannten Theorie
+- Wie argumentiert er gegen selbige Thesen?
+
+*** Genannte Philosophen
+Verstand → Epikur (nüchterner Vestand)
+           Mill (Bildung)
+           Aristoteles (Theorie)
+
+Talente des Geistes → Epikur (Bescheidenheit)
+                      Nietzsche (Individualität, Leidenschaft)
+                      Epiktet (Beharrlichkeit)
+**** Plenum
+| herkömmliche Werte    | Philosoph                  |
+|-----------------------+----------------------------|
+| Verstand              | z.B. Aristoteles (Theoria) |
+|                       | Epikur (Nüchternheit)      |
+|-----------------------+----------------------------|
+| Talente des Geistes   | Mill (Bildung)             |
+|-----------------------+----------------------------|
+| Mäßigung              | Epikur/Stoa                |
+| Selbstbeherrschung    | Aristoteles (Mitte)        |
+|-----------------------+----------------------------|
+| Mut                   | Aristoteles                |
+| Temperament/Charakter | Mill                       |
+|-----------------------+----------------------------|
+| Macht                 | Nietzsche                  |
+
+Glückseligkeit/Zufriedenheit
+        Reichtum
+        Ehre/Status → Precht
+        Glücksgaben → Kallikles
+        Gesundheit
+*** Argumente gegen Thesen
+schlechter Wille → Bentham/Mill (Nützlichkeit für die Gesellschaft)
+Glücksgaben können zu Übermut führen → Epikur (Lust erlangen)
+schlechter Einfluss auf das Gemüt → Aristoteles (gesellschaftliches)
+                                    Nietzsche (Vertiefung)
+                                    Bentham (Nützlichkeit für die Gesellschaft)
+guter Wille schränkt Hochachtung ein → Aristoteles (Tugend)
+*** Notiz an mich
+Robin ist laut Nietzsche schlecht, da er ein Sub ist. (Natürlich ein Sandwich ;))
