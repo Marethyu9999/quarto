@@ -4,7 +4,8 @@
 
 * 20.03.2024 :Kant:
 #+date: <2024-03-20 Mi>
-Kant ist gegen den Utiliterismus
+** Synopse
+Wir haben mit Kant begonnen, welcher viele andere Philosophen zu kritisieren scheint
 ** S. 179 M24 Z. 1-30
 Aufgabe:
 - Welchen Philosophen meint er mit einer genannten Theorie
@@ -48,3 +49,22 @@ schlechter Einfluss auf das Gemüt → Aristoteles (gesellschaftliches)
 guter Wille schränkt Hochachtung ein → Aristoteles (Tugend)
 *** Notiz an mich
 Robin ist laut Nietzsche schlecht, da er ein Sub ist. (Natürlich ein Sandwich ;))
+* 21.03.2024 :Kant:
+#+date: <2024-03-21 Do>
+** TODO Synopse
+** Excerpte aus S.179 M24 welche Zeigen, dass eine These nicht uneingeschränkt gut sein kann
+1. »aber sie können auch äußerst böse und schädlich werden wenn der Wille[…] nicht gut ist« (Z. 6f)
+2. »ohne zu erwähnen, dass ein vernünftiger unparteiischer Zuschauer[…]« (Z. 14f)
+3. »haben aber dem ungeachteten keinen inneren unbedingten Wert[…]« (Z. 19f)
+*** Plenum
+- Z. 6
+- Z. 26
+- Z. 27 → kaltes Blut eines Bösewichtes
+
+** Was ist laut Kant der gute Wille?
+Es gibt zwei _Materielle vorgehensweise_ und _
+
+Handle nur nach den Maximen, von denen du wollen kannst, dass sie ein allgemeines Gesetz werden können.
+        → heißt, dass Andere nicht so behandeln soll, wie man selbst nicht behandelt werden will
+*** TODO Bild zur Darstellungs des »Willens«
+[[./assets/1.png]]
