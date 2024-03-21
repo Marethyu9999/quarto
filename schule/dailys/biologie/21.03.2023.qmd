@@ -1,0 +1,21 @@
+# 21.03.2024
+
+## Worterklärung Stagnation & Konstanz
+
+„Die Population stagniert“ \| „Das Wachstum stagniert“\
+⇒ Sterberate = Geburtenrate: ![Bild](./assets/wachstum-stagniert.png){height="2em"}
+
+„Das Wachstum bleibt Konstant“\
+⇒ Die Zuwachsrate bleibt gleich hoch: ![Bild](./assets/wachstum-konstant.png){height="2em"}
+
+„Die Population bleibt Konstant“\
+⇒ [kein]{.underline} Wachstum, siehe oben: ![Bild](./assets/wachstum-stagniert.png){height="2em"}\
+
+## Kurze Notiz zu Abbild letzter Stunde
+
+1.  Bursaria steigt aufgrund vorhandener Chloroplasten stärker als P. Aurelia an
+
+## Beutespektrum von Habicht und Sperber im Vergleich
+
+Unterscheiden sich Organismen in wenigen aber entscheidenden Details ihrer ökologischen Nische (z.B. Nahrung) spricht man von [Konkurrenzvermeidung]{.underline}. Diese ermöglicht eine dauerhafte [Koexistenz]{.underline}.\
+Kommt es hingegen zu gemeinsamer beanspruchung einer (oder mehrerer) begrenzt zur Verfügung stehenden Ressourcen unterliegt der Konkurrenzschwächere und es kommt zum [Konkurrenzausschluß]{.underline}.

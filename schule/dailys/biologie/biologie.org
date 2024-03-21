@@ -1,0 +1,21 @@
+#+title: Biologie — tägliche Notizen
+#+language: de
+#+STARTUP: overview
+
+* 21.03.2024 :Ökosysteme:
+** Worterklärung Stagnation & Konstanz
+"Die Population stagniert" | "Das Wachstum stagniert"
+        ⇒ Sterberate = Geburtenrate: [[./assets/wachstum-stagniert.png][Bild]]
+"Das Wachstum bleibt Konstant"
+        ⇒ Die Zuwachsrate bleibt gleich hoch: [[./assets/wachstum-konstant.png][Bild]]
+"Die Population bleibt Konstant"
+        ⇒ _kein_ Wachstum, siehe oben: [[./assets/wachstum-stagniert.png][Bild]]
+** Kurze Notiz zu Abbild letzter Stunde
+P. Bursaria steigt aufgrund vorhandener Chloroplasten stärker als P. Aurelia an
+** Beutespektrum von Habicht und Sperber im Vergleich
+Unterscheiden sich Organismen in wenigen aber entscheidenden Details ihrer
+ökologischen Nische (z.B. Nahrung) spricht man von _Konkurrenzvermeidung_.
+Diese ermöglicht eine dauerhafte _Koexistenz_.\
+Kommt es hingegen zu gemeinsamer beanspruchung einer (oder mehrerer) begrenzt
+zur Verfügung stehenden Ressourcen unterliegt der Konkurrenzschwächere und
+es kommt zum _Konkurrenzausschluß_.
