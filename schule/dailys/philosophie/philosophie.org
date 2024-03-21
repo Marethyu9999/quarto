@@ -1,6 +1,6 @@
 #+title: Philosophie — tägliche Notizen
 #+STARTUP: overview
-#+date: null
+#+date: nil
 
 * 20.03.2024 :Kant:
 #+date: <2024-03-20 Mi>

@@ -1,0 +1,6 @@
+#+title: Todo
+
+* TODO Extraktor von größeren org-mode-files
+Da ich dailys jetzt in _einer_ Datei schreibe (wie in [[./philosophie/philosophie.org][philosophie]])
+möchte ich diese Täglichen Einträge als einzelne Datei extrahieren und ins quart-md Format konvertieren
+hierzu sollte eine integration mit =languagetool= erstellt werden, um Grammatik vor publishing zu checken.

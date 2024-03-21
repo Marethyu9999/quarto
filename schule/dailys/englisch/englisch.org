@@ -1,0 +1,45 @@
+#+title: Englisch
+#+date: nil
+#+STARTUP: overview
+
+* 21.03.2024 :Nigeria:
+#+date: <2024-03-21 Do  >
+** Synopsis
+- Disparities in Nigeria
+  - in terms of regions and history
+- generally just checking the EVA-HA
+** Disparities in Nigeria
+*** Pictures from p.240
+1. A city is visible with relativly flat land (most likely suburbs)
+   in the distance is a haven with compared to the houses big ships
+2. a few market stalls directly beside a street entirely filled with people leaving little gaps
+   also containing many vehicles in an almost random order
+3. a old building built out of either concrete or stone with a clock tower, old build style (gothic I guess)
+   a few people and a few market stalls are before the building, an office building in the background
+4. a deforested /forest/ with some sort of gas or steam, was most likely abundant in ressources before but then exploited
+   charred trees with no leaves, a gas or fluid pipe emitting this steam/gas substance, a little stream of water coming from beyond the pipe
+5. a village made out of wood, sourrounded by green trees/plants going into a vast, green landscape
+   they don't seem to have any electrical devices but the /modern/ houses which stand after the hay-made huts
+
+In summary Nigeria is *full of disparities*
+** Checking if EVA-HW is present
+*** a timeline of Nigerias history
+- unification of Nigeria as British colony *in 1914*
+- christian missionarys *in 19th century*
+- oil was discovered *in 1956*
+- gained full independence from UK *in October 1960*
+- massacre of Igbo people *in 1966*
+- Igbo breakaway of Nigeria *in 1967*
+- Reintegration of Igbo region into Nigeria *in 1970*
+- terrorist attack *in 2003*
+- kidnapping of 276 teenagers *in 2014*
+
+** Regional disparities
+- higher disparities in /North-East/ than /North-West/
+- /Central/ better in terms of disparities than both /Nort-East/ and /Nort-West/
+- more literate people in /South-East/ than both /Central/ and /North-West/ as well as /North-East/
+- the /general south/ has less disparities than the /upper North/
+- /West/ has more town with large numbers of inhabitants than the /East/
+- the /north regions/ are generally larger than the ones in the /south/
+*** Notes
+- haha "Lake Chad" und "Bauchi"
