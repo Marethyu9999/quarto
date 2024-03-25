@@ -11,15 +11,11 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Build and Push Docker Container
-        uses: docker/build-push-action@v2
+        uses: docker/build-push-action@v5
         with:
-          context: software/docker/
+          context: software/docker
           push: true
-          tags: ghcr.io/marethyu9999/code-server:latest
-        env:
-          DOCKER_USERNAME: ${{ secrets.GHCR_USERNAME }}
-          DOCKER_PASSWORD: ${{ secrets.GHCR_TOKEN }}
-
+          tags: ghcr.io/marethyu9999/vscode-quarto:latest
